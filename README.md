@@ -1,5 +1,5 @@
 # Awesome-Mamba-Papers
-![Awesome](https://awesome.re/badge.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-AI4Weather)
+![Awesome](https://awesome.re/badge.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Stars](https://github.com/yyyujintang/Awesome-Mamba-Papers)
 
 
 
