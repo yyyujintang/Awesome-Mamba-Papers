@@ -17,5 +17,9 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.01.24) SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation [Paper](https://arxiv.org/abs/2401.13560) [Code](https://github.com/ge-xing/SegMamba)
 
+ (Arxiv 24.01.24) MambaByte: Token-free Selective State Space Model [Paper](https://arxiv.org/abs/2401.13660) [Code](https://github.com/lucidrains/MEGABYTE-pytorch)
+
  (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim)
+
+ (Arxiv 24.01.25) MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/guo-stone/mambamorph)
 
