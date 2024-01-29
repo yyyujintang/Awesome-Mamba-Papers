@@ -9,6 +9,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 23.12.01) Mamba: Linear-Time Sequence Modeling with Selective State Spaces [Paper](https://arxiv.org/abs/2312.00752) [Code](https://github.com/state-spaces/mamba)
 
+(Arxiv 24.01.08) MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts [Paper](https://arxiv.org/abs/2401.04081) 
+
 (Arxiv 24.01.09) U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation [Paper](https://arxiv.org/abs/2401.04722) [Code](https://github.com/bowang-lab/U-Mamba)
 
  (Arxiv 24.01.17) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [Paper](https://arxiv.org/abs/2401.09417) [Code](https://github.com/hustvl/Vim)
