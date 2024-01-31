@@ -7,6 +7,8 @@ This repository compiles a list of papers related to Mamba.
 
 Continual improvements are being made to this repository. If you come across any relevant papers that should be included, please don't hesitate to submit a pull request (PR) or open an issue.
 
+## Mamba
+
 (Arxiv 23.12.01) Mamba: Linear-Time Sequence Modeling with Selective State Spaces [Paper](https://arxiv.org/abs/2312.00752) [Code](https://github.com/state-spaces/mamba)
 
 (Arxiv 24.01.08) MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts [Paper](https://arxiv.org/abs/2401.04081) 
@@ -25,3 +27,8 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.01.25) MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/guo-stone/mambamorph)
 
+## Other Useful Sources
+
+[Mamba_State_Space_Model_Paper_List](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)
+
+[Awesome State-Space Resources for ML](https://github.com/AvivBick/awesome-ssm-ml)
