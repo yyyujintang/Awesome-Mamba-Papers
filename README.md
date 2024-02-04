@@ -27,6 +27,8 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.01.25) MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/guo-stone/mambamorph)
 
+ (Arxiv 24.02.01) Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces [Paper](https://browse.arxiv.org/abs/2402.00789) [Code](https://github.com/bowang-lab/Graph-Mamba)
+
 ## Other Useful Sources
 
 [Mamba_State_Space_Model_Paper_List](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)
