@@ -1,7 +1,5 @@
 # Awesome-Mamba-Papers
-![Awesome](https://awesome.re/badge.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
-
-
+![Awesome](https://awesome.re/badge.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers) [![Visits Badge](https://badges.pufler.dev/visits/yyyujintang/Awesome-Mamba-Papers)](https://badges.pufler.dev/visits/yyyujintang/Awesome-Mamba-Papers)
 
 This repository compiles a list of papers related to Mamba.
 
