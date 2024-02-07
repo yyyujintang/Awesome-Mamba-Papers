@@ -27,6 +27,14 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.02.01) Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces [Paper](https://browse.arxiv.org/abs/2402.00789) [Code](https://github.com/bowang-lab/Graph-Mamba)
 
+ (Arxiv 24.02.04) VM-UNet: Vision Mamba UNet for Medical Image Segmentation [Paper](https://arxiv.org/abs/2402.02491) [Code](https://github.com/JCruan519/VM-UNet)
+
+ (Arxiv 24.02.05) nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model [Paper](https://arxiv.org/abs/2402.03526) [Code](https://github.com/lhaof/nnMamba)
+
+ (Arxiv 24.02.06) U-shaped Vision Mamba for Single Image Dehazing [Paper](https://arxiv.org/abs/2402.04139) [Code](https://github.com/zzr-idam)
+
+ (Arxiv 24.02.06) Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks [Paper](https://arxiv.org/abs/2402.04248) 
+
 ## Other Useful Sources
 
 [Mamba_State_Space_Model_Paper_List](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)
