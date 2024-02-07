@@ -29,6 +29,8 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.02.04) VM-UNet: Vision Mamba UNet for Medical Image Segmentation [Paper](https://arxiv.org/abs/2402.02491) [Code](https://github.com/JCruan519/VM-UNet)
 
+ (Arxiv 24.02.05) Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining [Paper](https://arxiv.org/abs/2402.03302) [Code](https://github.com/JiarunLiu/Swin-UMamba)
+
  (Arxiv 24.02.05) nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model [Paper](https://arxiv.org/abs/2402.03526) [Code](https://github.com/lhaof/nnMamba)
 
  (Arxiv 24.02.06) U-shaped Vision Mamba for Single Image Dehazing [Paper](https://arxiv.org/abs/2402.04139) [Code](https://github.com/zzr-idam)
