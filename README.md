@@ -37,6 +37,8 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.02.06) Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks [Paper](https://arxiv.org/abs/2402.04248) 
 
+ (Arxiv 24.02.08) Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data [Paper](https://arxiv.org/abs/2402.05892) 
+
 ## Other Useful Sources
 
 [Mamba_State_Space_Model_Paper_List](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)
