@@ -41,6 +41,20 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.02.08) Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data [Paper](https://arxiv.org/abs/2402.05892) 
 
+ (Arxiv 24.02.09) FD-Vision Mamba for Endoscopic Exposure Correction [Paper](https://arxiv.org/abs/2402.06378) [Code]
+
+ (Arxiv 24.02.11) Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation [Paper](https://arxiv.org/abs/2402.07245) [Code](https://github.com/ziyangwang007/Mamba-UNet)
+
+ (Arxiv 24.02.13) P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation [Paper](https://arxiv.org/abs/2402.08506)
+
+ (Arxiv 24.02.13) Graph Mamba: Towards Learning on Graphs with State Space Models [Paper](https://arxiv.org/abs/2402.08678) [Code](https://github.com/GraphMamba/GMN)
+
+ (Arxiv 24.02.15) Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling [Paper](https://arxiv.org/abs/2402.10211) [Code](https://github.com/raunaqbhirangi/hiss/tree/main)
+
+ (Arxiv 24.02.16) PointMamba: A Simple State Space Model for Point Cloud Analysis [Paper](https://arxiv.org/abs/2402.10739) [Code](https://github.com/LMD0311/PointMamba)
+
+ (Arxiv 24.02.16) Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation [Paper](https://arxiv.org/abs/2402.10887) [Code](https://github.com/ziyangwang007/Mamba-UNet)
+
 ## Other Useful Sources
 
 [Mamba_State_Space_Model_Paper_List](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)
