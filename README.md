@@ -55,6 +55,8 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.02.16) Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation [Paper](https://arxiv.org/abs/2402.10887) [Code](https://github.com/ziyangwang007/Mamba-UNet)
 
+ (Arxiv 24.02.19) Pan-Mamba: Effective pan-sharpening with State Space Model [Paper](https://arxiv.org/abs/2402.12192) [Code](https://github.com/alexhe101/Pan-Mamba)
+
 ## Other Useful Sources
 
 [Mamba_State_Space_Model_Paper_List](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)
