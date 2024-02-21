@@ -29,6 +29,8 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.02.01) Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces [Paper](https://browse.arxiv.org/abs/2402.00789) [Code](https://github.com/bowang-lab/Graph-Mamba)
 
+ (Arxiv 24.02.01) BlackMamba: Mixture of Experts for State-Space Models [Paper](https://arxiv.org/abs/2402.01771) [Code](https://github.com/Zyphra/BlackMamba)
+
  (Arxiv 24.02.04) VM-UNet: Vision Mamba UNet for Medical Image Segmentation [Paper](https://arxiv.org/abs/2402.02491) [Code](https://github.com/JCruan519/VM-UNet)
 
  (Arxiv 24.02.05) Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining [Paper](https://arxiv.org/abs/2402.03302) [Code](https://github.com/JiarunLiu/Swin-UMamba)
