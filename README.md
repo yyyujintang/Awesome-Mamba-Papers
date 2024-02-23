@@ -23,7 +23,7 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim)
 
- (Arxiv 24.01.25) MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/guo-stone/mambamorph)
+ (Arxiv 24.01.25) MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration [Paper](https://arxiv.org/abs/2401.13934) [Code](https://github.com/guo-stone/mambamorph)
 
  (Arxiv 24.01.31) LOCOST: State-Space Models for Long Document Abstractive Summarization [Paper](https://arxiv.org/abs/2401.17919) [Code](https://github.com/flbbb/locost-summarization)
 
