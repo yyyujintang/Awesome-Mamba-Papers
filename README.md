@@ -1,7 +1,7 @@
 # Awesome-Mamba-Papers
 ![Awesome](https://awesome.re/badge.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
 
-This repository compiles a list of papers related to Mamba.
+This repository compiles a list of papers related to Mamba and SSM.
 
 Continual improvements are being made to this repository. If you come across any relevant papers that should be included, please don't hesitate to submit a pull request (PR) or open an issue.
 
@@ -59,10 +59,18 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.02.19) Pan-Mamba: Effective pan-sharpening with State Space Model [Paper](https://arxiv.org/abs/2402.12192) [Code](https://github.com/alexhe101/Pan-Mamba)
 
+## State Space Model (SSM)
+
+ (NeurIPS 2020 Spotlight) HiPPO: Recurrent Memory with Optimal Polynomial Projections [Paper](https://arxiv.org/abs/2008.07669) [Code](https://github.com/HazyResearch/hippo-code)
+
+
+
 ## Other Useful Sources
 
 [Mamba_State_Space_Model_Paper_List](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)
 
 [Awesome State-Space Resources for ML](https://github.com/AvivBick/awesome-ssm-ml)
 
-[Awesome-state-space-models](https://github.com/radarFudan/Awesome-state-space-models)
+[Awesome-state-space-models](https://github.com/radarFudan/Awesome-state-space-models) 
+
+[Video-of-HiPPO](https://slideslive.com/38937809)
