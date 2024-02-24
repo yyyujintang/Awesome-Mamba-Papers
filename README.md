@@ -63,6 +63,7 @@ Continual improvements are being made to this repository. If you come across any
 
  (NeurIPS 2020 Spotlight) HiPPO: Recurrent Memory with Optimal Polynomial Projections [Paper](https://arxiv.org/abs/2008.07669) [Code](https://github.com/HazyResearch/hippo-code)
 
+ (ICLR 2022) S4: Efficiently Modeling Long Sequences with Structured State Spaces [Paper](https://arxiv.org/abs/2111.00396v3) [Code](https://github.com/state-spaces/s4)
 
 
 ## Other Useful Sources
@@ -74,3 +75,8 @@ Continual improvements are being made to this repository. If you come across any
 [Awesome-state-space-models](https://github.com/radarFudan/Awesome-state-space-models) 
 
 [Video-of-HiPPO](https://slideslive.com/38937809)
+
+[Video-of-Mamba-and-S4-Explained](https://www.youtube.com/watch?v=8Q_tqwpTpVU)
+
+[mamba-notes](https://github.com/hkproj/mamba-notes)
+
