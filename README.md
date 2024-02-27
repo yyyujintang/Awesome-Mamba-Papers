@@ -61,6 +61,8 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.02.23) MambaIR: A Simple Baseline for Image Restoration with State-Space Model [Paper](https://arxiv.org/abs/2402.15648) [Code](https://github.com/csguoh/MambaIR)
 
+ (Arxiv 24.02.23) State Space Models for Event Cameras [Paper](https://arxiv.org/abs/2402.15584) 
+
  (Arxiv 24.02.24) Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning [Paper](https://arxiv.org/abs/2402.15761) [Code](https://github.com/ChiShengChen/ResVMamba)
 
 ## State Space Model (SSM)
