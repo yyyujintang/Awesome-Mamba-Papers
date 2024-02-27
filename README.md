@@ -65,6 +65,7 @@ Continual improvements are being made to this repository. If you come across any
 
  (ICLR 2022) S4: Efficiently Modeling Long Sequences with Structured State Spaces [Paper](https://arxiv.org/abs/2111.00396v3) [Code](https://github.com/state-spaces/s4)
 
+ (ICLR 2023) H3: Hungry Hungry Hippos: Toward Language Modeling with State Space Models [Paper](https://arxiv.org/abs/2212.14052) [Code](https://github.com/HazyResearch/H3)
 
 ## Other Useful Sources
 
@@ -78,5 +79,6 @@ Continual improvements are being made to this repository. If you come across any
 
 [Video-of-Mamba-and-S4-Explained](https://www.youtube.com/watch?v=8Q_tqwpTpVU)
 
-[mamba-notes](https://github.com/hkproj/mamba-notes)
+[Mamba-Notes](https://github.com/hkproj/mamba-notes)
 
+[Annotated-Mamba](https://srush.github.io/annotated-mamba/hard.html)
