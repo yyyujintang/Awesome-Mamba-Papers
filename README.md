@@ -59,6 +59,10 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.02.19) Pan-Mamba: Effective pan-sharpening with State Space Model [Paper](https://arxiv.org/abs/2402.12192) [Code](https://github.com/alexhe101/Pan-Mamba)
 
+ (Arxiv 24.02.23) MambaIR: A Simple Baseline for Image Restoration with State-Space Model [Paper](https://arxiv.org/abs/2402.15648) [Code](https://github.com/csguoh/MambaIR)
+
+ (Arxiv 24.02.24) Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning [Paper](https://arxiv.org/abs/2402.15761) [Code](https://github.com/ChiShengChen/ResVMamba)
+
 ## State Space Model (SSM)
 
  (NeurIPS 2020 Spotlight) HiPPO: Recurrent Memory with Optimal Polynomial Projections [Paper](https://arxiv.org/abs/2008.07669) [Code](https://github.com/HazyResearch/hippo-code)
