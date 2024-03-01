@@ -88,3 +88,5 @@ Continual improvements are being made to this repository. If you come across any
 [Mamba-Notes](https://github.com/hkproj/mamba-notes)
 
 [Annotated-Mamba](https://srush.github.io/annotated-mamba/hard.html)
+
+[A Visual Guide to Mamba and State Space Models](https://www.maartengrootendorst.com/blog/mamba/)
