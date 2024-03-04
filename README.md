@@ -65,6 +65,8 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.02.24) Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning [Paper](https://arxiv.org/abs/2402.15761) [Code](https://github.com/ChiShengChen/ResVMamba)
 
+ (Arxiv 24.03.01) Point Could Mamba: Point Cloud Learning via State Space Model [Paper](https://arxiv.org/abs/2403.00762) [Code](https://github.com/zhang-tao-whu/PCM)
+
 ## State Space Model (SSM)
 
  (NeurIPS 2020 Spotlight) HiPPO: Recurrent Memory with Optimal Polynomial Projections [Paper](https://arxiv.org/abs/2008.07669) [Code](https://github.com/HazyResearch/hippo-code)
