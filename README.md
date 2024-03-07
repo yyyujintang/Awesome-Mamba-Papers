@@ -65,7 +65,17 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.02.24) Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning [Paper](https://arxiv.org/abs/2402.15761) [Code](https://github.com/ChiShengChen/ResVMamba)
 
+ (Arxiv 24.02.26) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models [Paper](https://arxiv.org/abs/2403.00818) [Code](https://github.com/WailordHe/DenseSSM)
+
  (Arxiv 24.03.01) Point Could Mamba: Point Cloud Learning via State Space Model [Paper](https://arxiv.org/abs/2403.00762) [Code](https://github.com/zhang-tao-whu/PCM)
+
+ (Arxiv 24.03.03) The Hidden Attention of Mamba Models [Paper](https://arxiv.org/abs/2403.01590) [Code](https://github.com/AmeenAli/HiddenMambaAttn)
+
+ (Arxiv 24.03.04) MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection [Paper](https://arxiv.org/abs/2403.02148) [Code](https://github.com/txchen-USTC/MiM-ISTD)
+
+ (Arxiv 24.03.06) MedMamba: Vision Mamba for Medical Image Classification [Paper](https://arxiv.org/abs/2403.03849) [Code](https://github.com/YubiaoYue/MedMamba)
+
+ (Arxiv 24.03.06) Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models [Paper](https://arxiv.org/abs/2403.03900) 
 
 ## State Space Model (SSM)
 
