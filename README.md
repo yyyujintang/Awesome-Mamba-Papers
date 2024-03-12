@@ -76,6 +76,8 @@ Continual improvements are being made to this repository. If you come across any
  (Arxiv 24.03.06) MedMamba: Vision Mamba for Medical Image Classification [Paper](https://arxiv.org/abs/2403.03849) [Code](https://github.com/YubiaoYue/MedMamba)
 
  (Arxiv 24.03.06) Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models [Paper](https://arxiv.org/abs/2403.03900) 
+ 
+ (Arxiv 24.03.08) LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation [Paper](https://arxiv.org/abs/2403.05246) [Code](https://github.com/MrBlankness/LightM-UNet)
 
 ## State Space Model (SSM)
 
