@@ -76,8 +76,14 @@ Continual improvements are being made to this repository. If you come across any
  (Arxiv 24.03.06) MedMamba: Vision Mamba for Medical Image Classification [Paper](https://arxiv.org/abs/2403.03849) [Code](https://github.com/YubiaoYue/MedMamba)
 
  (Arxiv 24.03.06) Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models [Paper](https://arxiv.org/abs/2403.03900) 
- 
+
  (Arxiv 24.03.08) LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation [Paper](https://arxiv.org/abs/2403.05246) [Code](https://github.com/MrBlankness/LightM-UNet)
+
+ (Arxiv 24.03.08) VideoMamba: State Space Model for Efficient Video Understanding [Paper](https://arxiv.org/abs/2403.06977) [Code](https://github.com/OpenGVLab/VideoMamba)
+
+ (Arxiv 24.03.08) MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models [Paper](https://arxiv.org/abs/2403.05160) 
+
+ (Arxiv 24.03.11) MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology [Paper](https://arxiv.org/abs/2403.06800) [Code](https://github.com/isyangshu/MambaMIL)
 
 ## State Space Model (SSM)
 
