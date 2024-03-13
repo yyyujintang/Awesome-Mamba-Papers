@@ -90,6 +90,8 @@ Continual improvements are being made to this repository. If you come across any
  (Arxiv 24.03.12) Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention [Paper](https://arxiv.org/abs/2403.07332) [Code](https://github.com/wjh892521292/LMa-UNet)
 
  (Arxiv 24.03.12) Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [Paper](https://arxiv.org/abs/2403.07487) [Code](https://github.com/steve-zeyu-zhang/MotionMamba/)
+ 
+ (Arxiv 24.03.13) ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes [Paper](https://arxiv.org/abs/2403.05795)
 
 ## State Space Model (SSM)
 
