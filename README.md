@@ -85,6 +85,12 @@ Continual improvements are being made to this repository. If you come across any
 
  (Arxiv 24.03.11) MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology [Paper](https://arxiv.org/abs/2403.06800) [Code](https://github.com/isyangshu/MambaMIL)
 
+ (Arxiv 24.03.11) VideoMamba: State Space Model for Efficient Video Understanding [Paper](https://arxiv.org/abs/2403.06977) [Code](https://github.com/OpenGVLab/VideoMamba)
+
+ (Arxiv 24.03.12) Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention [Paper](https://arxiv.org/abs/2403.07332) [Code](https://github.com/wjh892521292/LMa-UNet)
+
+ (Arxiv 24.03.12) Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [Paper](https://arxiv.org/abs/2403.07487) [Code](https://github.com/steve-zeyu-zhang/MotionMamba/)
+
 ## State Space Model (SSM)
 
  (NeurIPS 2020 Spotlight) HiPPO: Recurrent Memory with Optimal Polynomial Projections [Paper](https://arxiv.org/abs/2008.07669) [Code](https://github.com/HazyResearch/hippo-code)
