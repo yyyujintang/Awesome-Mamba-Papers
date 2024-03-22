@@ -91,7 +91,7 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.12) Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention [Paper](https://arxiv.org/abs/2403.07332) [Code](https://github.com/wjh892521292/LMa-UNet)
 
-(Arxiv 24.03.20) H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation [Paper](https://arxiv.org/abs/2403.13642) [Code]https://github.com/wurenkai/H-vmunet)
+(Arxiv 24.03.20) H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation [Paper](https://arxiv.org/abs/2403.13642) [Code](https://github.com/wurenkai/H-vmunet)
 
 (Arxiv 24.03.20) ProMamba: Prompt-Mamba for polyp segmentation [Paper](https://arxiv.org/abs/2403.13660)
 
