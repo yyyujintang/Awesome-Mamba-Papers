@@ -61,11 +61,13 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.15) On the low-shot transferability of [V]-Mamba [Paper](https://arxiv.org/abs/2403.10696) 
 
-## Video
+## Video/Spatiotemporal
 
 (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim)
 
 (Arxiv 24.03.11) VideoMamba: State Space Model for Efficient Video Understanding [Paper](https://arxiv.org/abs/2403.06977) [Code](https://github.com/OpenGVLab/VideoMamba)
+
+(Arxiv 24.03.25) VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting [Paper](https://arxiv.org/abs/2403.16536) [Code](https://github.com/yyyujintang/VMRNN-PyTorch)
 
 ## Medical
 
@@ -95,11 +97,15 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.20) ProMamba: Prompt-Mamba for polyp segmentation [Paper](https://arxiv.org/abs/2403.13660)
 
+(Arxiv 24.03.25) CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification [Paper](https://arxiv.org/abs/2403.16520) 
+
 ## Time Series
 
 (Arxiv 24.03.14) TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting [Paper](https://arxiv.org/abs/2403.09898) [Code](https://github.com/Atik-Ahamed/TimeMachine)
 
 (Arxiv 24.03.17) Is Mamba Effective for Time Series Forecasting? [Paper](https://arxiv.org/abs/2403.11144) [Code](https://github.com/wzhwzhwzh0921/S-D-Mamba)
+
+(Arxiv 24.03.22) SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [Paper](https://arxiv.org/abs/2403.15360) [Code](https://github.com/badripatro/Simba)
 
 ## Graph
 
@@ -123,9 +129,13 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.20) VL-Mamba: Exploring State Space Models for Multimodal Learning [Paper](https://arxiv.org/abs/2403.13600) [Code](https://yanyuanqiao.github.io/vl-mamba/)
 
+(Arxiv 24.03.22) Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [Paper](https://arxiv.org/abs/2403.14520) [Code](https://sites.google.com/view/cobravlm)
+
 ## Reinforcement Learning
 
 (Arxiv 24.03.14) MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning [Paper](https://arxiv.org/abs/2403.09859) [Code](https://github.com/zoharri/mamba)
+
+(Arxiv 24.03.25) Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [Paper](https://arxiv.org/abs/2403.16371) [Code](https://github.com/zoharri/mamba)
 
 ## State Space Model (SSM)
 
@@ -152,3 +162,19 @@ Continual improvements are being made to this repository. If you come across any
 [Annotated-Mamba](https://srush.github.io/annotated-mamba/hard.html)
 
 [A Visual Guide to Mamba and State Space Models](https://www.maartengrootendorst.com/blog/mamba/)
+
+## Citation
+
+If you find this repository useful, please consider citing our paper:
+
+```python
+@misc{tang2024vmrnn,
+      title={VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting}, 
+      author={Yujin Tang and Peijie Dong and Zhenheng Tang and Xiaowen Chu and Junwei Liang},
+      year={2024},
+      eprint={2403.16536},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
