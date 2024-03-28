@@ -41,6 +41,10 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.21) ZigMa: Zigzag Mamba Diffusion Model [Paper](https://arxiv.org/abs/2403.13802) [Code](https://github.com/CompVis/zigma)
 
+(Arxiv 24.03.26) State Space Models as Foundation Models: A Control Theoretic Overview [Paper](https://arxiv.org/abs/2403.16899) 
+
+(Arxiv 24.03.27) Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation [Paper](https://arxiv.org/abs/2403.18257) 
+
 ## Vision
 
 (Arxiv 24.01.17) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [Paper](https://arxiv.org/abs/2401.09417) [Code](https://github.com/hustvl/Vim)
@@ -61,11 +65,21 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.15) On the low-shot transferability of [V]-Mamba [Paper](https://arxiv.org/abs/2403.10696) 
 
-## Video/Spatiotemporal
+(Arxiv 24.03.26) PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition [Paper](https://arxiv.org/abs/2403.17695) [Code](https://github.com/ChenhongyiYang/PlainMamba)
+
+(Arxiv 24.03.26) Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion [Paper](https://arxiv.org/abs/2403.17432) 
+
+(Arxiv 24.03.27) Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction [Paper](https://arxiv.org/abs/2403.18795) 
+
+(Arxiv 24.03.27) ReMamber: Referring Image Segmentation with Mamba Twister [Paper](https://arxiv.org/abs/2403.17839) 
+
+## Video
 
 (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim)
 
 (Arxiv 24.03.11) VideoMamba: State Space Model for Efficient Video Understanding [Paper](https://arxiv.org/abs/2403.06977) [Code](https://github.com/OpenGVLab/VideoMamba)
+
+## Spatiotemporal
 
 (Arxiv 24.03.25) VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting [Paper](https://arxiv.org/abs/2403.16536) [Code](https://github.com/yyyujintang/VMRNN-PyTorch)
 
@@ -98,6 +112,8 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.03.20) ProMamba: Prompt-Mamba for polyp segmentation [Paper](https://arxiv.org/abs/2403.13660)
 
 (Arxiv 24.03.25) CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification [Paper](https://arxiv.org/abs/2403.16520) 
+
+(Arxiv 24.03.26) Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation [Paper](https://arxiv.org/abs/2403.17701) 
 
 ## Time Series
 
