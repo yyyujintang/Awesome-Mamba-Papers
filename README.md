@@ -45,6 +45,10 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.27) Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation [Paper](https://arxiv.org/abs/2403.18257) 
 
+(Arxiv 24.03.28) Jamba: A Hybrid Transformer-Mamba Language Model [Paper](https://arxiv.org/abs/2403.19887) [Code](https://huggingface.co/ai21labs/Jamba-v0.1)
+
+(Arxiv 24.03.29) HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM [Paper](https://arxiv.org/abs/2403.20183) 
+
 ## Vision
 
 (Arxiv 24.01.17) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [Paper](https://arxiv.org/abs/2401.09417) [Code](https://github.com/hustvl/Vim)
@@ -73,11 +77,15 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.27) ReMamber: Referring Image Segmentation with Mamba Twister [Paper](https://arxiv.org/abs/2403.17839) 
 
+(Arxiv 24.03.28) RSMamba: Remote Sensing Image Classification with State Space Model [Paper](https://arxiv.org/abs/2403.19654) [Code](https://github.com/KyanChen/RSMamba)
+
 ## Video
 
 (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim)
 
 (Arxiv 24.03.11) VideoMamba: State Space Model for Efficient Video Understanding [Paper](https://arxiv.org/abs/2403.06977) [Code](https://github.com/OpenGVLab/VideoMamba)
+
+(Arxiv 24.03.11) SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [Paper](https://arxiv.org/abs/2404.01174) 
 
 ## Spatiotemporal
 
@@ -114,6 +122,10 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.03.25) CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification [Paper](https://arxiv.org/abs/2403.16520) 
 
 (Arxiv 24.03.26) Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation [Paper](https://arxiv.org/abs/2403.17701) 
+
+(Arxiv 24.03.29) UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation [Paper](https://arxiv.org/abs/2403.20035) [Code](https://github.com/wurenkai/UltraLight-VM-UNet) 
+
+(Arxiv 24.04.01) T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation [Paper](https://arxiv.org/abs/2404.01065) 
 
 ## Time Series
 
@@ -152,6 +164,8 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.03.14) MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning [Paper](https://arxiv.org/abs/2403.09859) [Code](https://github.com/zoharri/mamba)
 
 (Arxiv 24.03.25) Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [Paper](https://arxiv.org/abs/2403.16371) [Code](https://github.com/zoharri/mamba)
+
+(Arxiv 24.03.29) Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [Paper](https://arxiv.org/abs/2403.19925) 
 
 ## State Space Model (SSM)
 
