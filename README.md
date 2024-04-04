@@ -79,6 +79,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.28) RSMamba: Remote Sensing Image Classification with State Space Model [Paper](https://arxiv.org/abs/2403.19654) [Code](https://github.com/KyanChen/RSMamba)
 
+(Arxiv 24.04.02) Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model [Paper](https://arxiv.org/abs/2404.01705) [Code](https://github.com/zhuqinfeng1999/Samba)
+
 ## Video
 
 (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim)
