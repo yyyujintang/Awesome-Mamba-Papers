@@ -1,9 +1,9 @@
 # Awesome-Mamba-Papers
-![Awesome](https://awesome.re/badge.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
+![Awesome](https://awesome.re/badge.svg) ![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Mamba-Papers)
 
 This repository compiles a list of papers related to Mamba and SSM.
 
-Continual improvements are being made to this repository. If you come across any relevant papers that should be included, please don't hesitate to submit a pull request (PR) or open an issue.
+Continual improvements are being made to this repository. If you come across any relevant papers that should be included, please don't hesitate to open an issue.
 
 ## Mamba
 
@@ -43,11 +43,11 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.26) State Space Models as Foundation Models: A Control Theoretic Overview [Paper](https://arxiv.org/abs/2403.16899) 
 
-(Arxiv 24.03.27) Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation [Paper](https://arxiv.org/abs/2403.18257) 
-
 (Arxiv 24.03.28) Jamba: A Hybrid Transformer-Mamba Language Model [Paper](https://arxiv.org/abs/2403.19887) [Code](https://huggingface.co/ai21labs/Jamba-v0.1)
 
 (Arxiv 24.03.29) HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM [Paper](https://arxiv.org/abs/2403.20183) 
+
+(Arxiv 24.04.07) VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration [Paper](https://arxiv.org/abs/2404.05105) [Code](https://github.com/ziyangwang007/VMambaMorph)
 
 ## Vision
 
@@ -79,13 +79,23 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.28) RSMamba: Remote Sensing Image Classification with State Space Model [Paper](https://arxiv.org/abs/2403.19654) [Code](https://github.com/KyanChen/RSMamba)
 
+(Arxiv 24.04.02) Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model [Paper](https://arxiv.org/abs/2404.01705) [Code](https://github.com/zhuqinfeng1999/Samba)
+
+(Arxiv 24.04.03) RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation [Paper](https://arxiv.org/abs/2404.02457) [Code](https://github.com/sstary/SSRS)
+
+(Arxiv 24.04.03) RS-Mamba for Large Remote Sensing Image Dense Prediction [Paper](https://arxiv.org/abs/2404.02668) [Code](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)
+
+\(Arxiv 24.04.04) ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [Paper](https://arxiv.org/abs/2404.03425) [Code](https://github.com/ChenHongruixuan/MambaCD) 
+
+\(Arxiv 24.04.05) Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [Paper](https://arxiv.org/abs/2404.04256) [Code](https://github.com/zifuwan/Sigma) 
+
 ## Video
 
 (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim)
 
 (Arxiv 24.03.11) VideoMamba: State Space Model for Efficient Video Understanding [Paper](https://arxiv.org/abs/2403.06977) [Code](https://github.com/OpenGVLab/VideoMamba)
 
-(Arxiv 24.03.11) SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [Paper](https://arxiv.org/abs/2404.01174) 
+(Arxiv 24.04.01) SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [Paper](https://arxiv.org/abs/2404.01174) 
 
 ## Spatiotemporal
 
@@ -135,6 +145,12 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.22) SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [Paper](https://arxiv.org/abs/2403.15360) [Code](https://github.com/badripatro/Simba)
 
+## Speech/Audio
+
+(Arxiv 24.03.27) Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation [Paper](https://arxiv.org/abs/2403.18257) 
+
+(Arxiv 24.04.02) SPMamba: State-space model is all you need in speech separation [Paper](https://arxiv.org/abs/2404.02063) [code](https://github.com/JusperLee/SPMamba)
+
 ## Graph
 
 (Arxiv 24.02.01) Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces [Paper](https://browse.arxiv.org/abs/2402.00789) [Code](https://github.com/bowang-lab/Graph-Mamba)
@@ -148,6 +164,8 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.02.16) PointMamba: A Simple State Space Model for Point Cloud Analysis [Paper](https://arxiv.org/abs/2402.10739) [Code](https://github.com/LMD0311/PointMamba)
 
 (Arxiv 24.03.01) Point Could Mamba: Point Cloud Learning via State Space Model [Paper](https://arxiv.org/abs/2403.00762) [Code](https://github.com/zhang-tao-whu/PCM)
+
+(Arxiv 24.04.08) 3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering [Paper](https://arxiv.org/abs/2404.05522) 
 
 ## Recommendation
 
