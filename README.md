@@ -179,8 +179,6 @@ Continual improvements are being made to this repository. If you come across any
 
 ## Reinforcement Learning
 
-(Arxiv 24.03.14) MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning [Paper](https://arxiv.org/abs/2403.09859) [Code](https://github.com/zoharri/mamba) ![Stars](https://img.shields.io/github/stars/zoharri/mamba)
-
 (Arxiv 24.03.29) Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [Paper](https://arxiv.org/abs/2403.19925) 
 
 ## State Space Model (SSM)
