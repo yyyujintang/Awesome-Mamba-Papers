@@ -99,7 +99,7 @@ Continual improvements are being made to this repository. If you come across any
 
 ## Spatiotemporal
 
-(==CVPR24 Precognition Workshop==) VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting [Paper](https://arxiv.org/abs/2403.16536) [Code](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
+(**CVPR24 Precognition Workshop**) VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting [Paper](https://arxiv.org/abs/2403.16536) [Code](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
 
 ## Medical
 
