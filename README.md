@@ -25,7 +25,7 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.02.19) Pan-Mamba: Effective pan-sharpening with State Space Model [Paper](https://arxiv.org/abs/2402.12192) [Code](https://github.com/alexhe101/Pan-Mamba) ![Stars](https://img.shields.io/github/stars/alexhe101/Pan-Mamba)
 
-(Arxiv 24.02.23) State Space Models for Event Cameras [Paper](https://arxiv.org/abs/2402.15584) 
+(**CVPR24**) State Space Models for Event Cameras [Paper](https://arxiv.org/abs/2402.15584) [Code](https://github.com/uzh-rpg/ssms_event_cameras) ![Stars](https://img.shields.io/github/stars/uzh-rpg/ssms_event_cameras)
 
 (Arxiv 24.02.26) DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models [Paper](https://arxiv.org/abs/2403.00818) [Code ](https://github.com/WailordHe/DenseSSM)![Stars](https://img.shields.io/github/stars/WailordHe/DenseSSM)
 
