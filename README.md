@@ -89,6 +89,8 @@ Continual improvements are being made to this repository. If you come across any
 
 \(Arxiv 24.04.05) Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [Paper](https://arxiv.org/abs/2404.04256) [Code](https://github.com/zifuwan/Sigma) ![Stars](https://img.shields.io/github/stars/zifuwan/Sigma)
 
+(Arxiv 24.04.02) Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model [Paper](https://arxiv.org/abs/2404.01705) [Code](https://github.com/zhuqinfeng1999/Samba)
+
 ## Video
 
 (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim) ![Stars](https://img.shields.io/github/stars/scott-yjyang/Vivim)
