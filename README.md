@@ -145,6 +145,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.22) SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [Paper](https://arxiv.org/abs/2403.15360) [Code](https://github.com/badripatro/Simba) ![Stars](https://img.shields.io/github/stars/badripatro/Simba)
 
+(Arxiv 24.04.23) Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting [Paper](https://arxiv.org/abs/2404.14757) [Code](https://github.com/XiongxiaoXu/Mambaformer-in-Time-Series) ![Stars](https://img.shields.io/github/stars/XiongxiaoXu/Mambaformer-in-Time-Series)
+
 ## Speech/Audio
 
 (Arxiv 24.03.27) Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation [Paper](https://arxiv.org/abs/2403.18257) 
