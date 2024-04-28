@@ -5,6 +5,14 @@ This repository compiles a list of papers related to Mamba and SSM.
 
 Continual improvements are being made to this repository. If you come across any relevant papers that should be included, please don't hesitate to open an issue.
 
+## Survey
+
+(Arxiv 24.04.15) State Space Model for New-Generation Network Alternative to Transformers: A Survey [Paper](https://arxiv.org/abs/2404.09516) [Code](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List) ![Stars](https://img.shields.io/github/stars/Event-AHU/Mamba_State_Space_Model_Paper_List)
+
+(Arxiv 24.04.24) A Survey on Visual Mamba [Paper](https://arxiv.org/abs/2404.15956) 
+
+(Arxiv 24.04.24) Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges [Paper](https://arxiv.org/abs/2404.16112) [Code](https://github.com/badripatro/mamba360) ![Stars](https://img.shields.io/github/stars/badripatro/mamba360)
+
 ## Mamba
 
 (Arxiv 23.12.01) Mamba: Linear-Time Sequence Modeling with Selective State Spaces [Paper](https://arxiv.org/abs/2312.00752) [Code](https://github.com/state-spaces/mamba) ![Stars](https://img.shields.io/github/stars/state-spaces/mamba)
@@ -89,6 +97,10 @@ Continual improvements are being made to this repository. If you come across any
 
 \(Arxiv 24.04.05) Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [Paper](https://arxiv.org/abs/2404.04256) [Code](https://github.com/zifuwan/Sigma) ![Stars](https://img.shields.io/github/stars/zifuwan/Sigma)
 
+\(Arxiv 24.04.16) Exploring Learning-based Motion Models in Multi-Object Tracking [Paper](https://arxiv.org/abs/2403.10826) 
+
+\(Arxiv 24.04.20) Vim4Path: Self-Supervised Vision Mamba for Histopathology Images [Paper](https://arxiv.org/abs/2404.13222) [Code](https://github.com/AtlasAnalyticsLab/Vim4Path) ![Stars](https://img.shields.io/github/stars/AtlasAnalyticsLab/Vim4Path)
+
 ## Video
 
 (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim) ![Stars](https://img.shields.io/github/stars/scott-yjyang/Vivim)
@@ -100,6 +112,10 @@ Continual improvements are being made to this repository. If you come across any
 ## Spatiotemporal
 
 (**CVPR24 Precognition Workshop**) VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting [Paper](https://arxiv.org/abs/2403.16536) [Code](https://github.com/yyyujintang/VMRNN-PyTorch) ![Stars](https://img.shields.io/github/stars/yyyujintang/VMRNN-PyTorch)
+
+(Arxiv 24.04.20) ST-SSMs: Spatial-Temporal Selective State of Space Model for Traffic Forecasting Prediction [Paper](https://arxiv.org/abs/2404.13257) 
+
+(Arxiv 24.04.24) ST-MambaSync: The Confluence of Mamba Structure and Spatio-Temporal Transformers for Precipitous Traffic Prediction [Paper](https://arxiv.org/abs/2404.15899) 
 
 ## Medical
 
@@ -137,6 +153,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.04.01) T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation [Paper](https://arxiv.org/abs/2404.01065) 
 
+(MIDL 2024) ViM-UNet: Vision Mamba for Biomedical Segmentation [Paper](https://arxiv.org/abs/2404.07705) [Code](https://github.com/constantinpape/torch-em/blob/main/vimunet.md) 
+
 ## Time Series
 
 (Arxiv 24.03.14) TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting [Paper](https://arxiv.org/abs/2403.09898) [Code](https://github.com/Atik-Ahamed/TimeMachine) ![Stars](https://img.shields.io/github/stars/Atik-Ahamed/TimeMachine)
@@ -146,6 +164,8 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.03.22) SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series [Paper](https://arxiv.org/abs/2403.15360) [Code](https://github.com/badripatro/Simba) ![Stars](https://img.shields.io/github/stars/badripatro/Simba)
 
 (Arxiv 24.04.23) Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting [Paper](https://arxiv.org/abs/2404.14757) [Code](https://github.com/XiongxiaoXu/Mambaformer-in-Time-Series) ![Stars](https://img.shields.io/github/stars/XiongxiaoXu/Mambaformer-in-Time-Series)
+
+(Arxiv 24.04.24) Bi-Mamba4TS: Bidirectional Mamba for Time Series Forecasting [Paper](https://arxiv.org/abs/2404.15772) 
 
 ## Speech/Audio
 
@@ -169,6 +189,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.04.08) 3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering [Paper](https://arxiv.org/abs/2404.05522) 
 
+(Arxiv 24.04.23) Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model [Paper](https://arxiv.org/abs/2404.14966) 
+
 ## Recommendation
 
 (Arxiv 24.03.25) Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [Paper](https://arxiv.org/abs/2403.16371) [Code](https://github.com/nancheng58/RecMamba) ![Stars](https://img.shields.io/github/stars/nancheng58/RecMamba)
@@ -178,6 +200,8 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.03.20) VL-Mamba: Exploring State Space Models for Multimodal Learning [Paper](https://arxiv.org/abs/2403.13600) [Code](https://github.com/ZhengYu518/VL-Mamba) ![Stars](https://img.shields.io/github/stars/ZhengYu518/VL-Mamba)
 
 (Arxiv 24.03.22) Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [Paper](https://arxiv.org/abs/2403.14520) [Code](https://github.com/h-zhao1997/cobra) ![Stars](https://img.shields.io/github/stars/h-zhao1997/cobra)
+
+(Arxiv 24.04.25) CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions [Paper](https://arxiv.org/abs/2404.16302) [Code](https://github.com/lhy-zjut/CFMW) ![Stars](https://img.shields.io/github/stars/lhy-zjut/CFMW)
 
 ## Reinforcement Learning
 
