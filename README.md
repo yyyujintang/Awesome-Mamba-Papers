@@ -57,6 +57,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.04.07) VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration [Paper](https://arxiv.org/abs/2404.05105) [Code](https://github.com/ziyangwang007/VMambaMorph) ![Stars](https://img.shields.io/github/stars/ziyangwang007/VMambaMorph)
 
+(Arxiv 24.04.12) SpectralMamba: Efficient Mamba for Hyperspectral Image Classification [Paper](https://arxiv.org/abs/2404.08489) [Code](https://github.com/danfenghong/SpectralMamba) ![Stars](https://img.shields.io/github/stars/danfenghong/SpectralMamba)
+
 ## Vision
 
 (Arxiv 24.01.17) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [Paper](https://arxiv.org/abs/2401.09417) [Code](https://github.com/hustvl/Vim) ![Stars](https://img.shields.io/github/stars/hustvl/Vim)
@@ -97,7 +99,15 @@ Continual improvements are being made to this repository. If you come across any
 
 \(Arxiv 24.04.05) Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [Paper](https://arxiv.org/abs/2404.04256) [Code](https://github.com/zifuwan/Sigma) ![Stars](https://img.shields.io/github/stars/zifuwan/Sigma)
 
+\(Arxiv 24.04.09) MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [Paper](https://arxiv.org/abs/2404.06564) [Code](https://github.com/lewandofskee/MambaAD) ![Stars](https://img.shields.io/github/stars/lewandofskee/MambaAD)
+
+\(Arxiv 24.04.15) FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining [Paper](https://arxiv.org/abs/2404.09476) 
+
 \(Arxiv 24.04.16) Exploring Learning-based Motion Models in Multi-Object Tracking [Paper](https://arxiv.org/abs/2403.10826) 
+
+\(Arxiv 24.04.17) CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration [Paper](https://arxiv.org/abs/2404.11778) 
+
+\(Arxiv 24.04.17) Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion [Paper](https://arxiv.org/abs/2404.11375) 
 
 \(Arxiv 24.04.20) Vim4Path: Self-Supervised Vision Mamba for Histopathology Images [Paper](https://arxiv.org/abs/2404.13222) [Code](https://github.com/AtlasAnalyticsLab/Vim4Path) ![Stars](https://img.shields.io/github/stars/AtlasAnalyticsLab/Vim4Path)
 
@@ -108,6 +118,10 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.03.11) VideoMamba: State Space Model for Efficient Video Understanding [Paper](https://arxiv.org/abs/2403.06977) [Code](https://github.com/OpenGVLab/VideoMamba) ![Stars](https://img.shields.io/github/stars/OpenGVLab/VideoMamba)
 
 (Arxiv 24.04.01) SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [Paper](https://arxiv.org/abs/2404.01174) 
+
+(Arxiv 24.04.09) RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos [Paper](https://arxiv.org/abs/2404.06483) 
+
+(Arxiv 24.04.11) Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [Paper](https://arxiv.org/abs/2404.07645) 
 
 ## Spatiotemporal
 
@@ -189,6 +203,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.04.08) 3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering [Paper](https://arxiv.org/abs/2404.05522) 
 
+(Arxiv 24.04.10) 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion [Paper](https://arxiv.org/abs/2404.05522) 
+
 (Arxiv 24.04.23) Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model [Paper](https://arxiv.org/abs/2404.14966) 
 
 ## Recommendation
@@ -200,6 +216,18 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.03.20) VL-Mamba: Exploring State Space Models for Multimodal Learning [Paper](https://arxiv.org/abs/2403.13600) [Code](https://github.com/ZhengYu518/VL-Mamba) ![Stars](https://img.shields.io/github/stars/ZhengYu518/VL-Mamba)
 
 (Arxiv 24.03.22) Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [Paper](https://arxiv.org/abs/2403.14520) [Code](https://github.com/h-zhao1997/cobra) ![Stars](https://img.shields.io/github/stars/h-zhao1997/cobra)
+
+(Arxiv 24.04.09) 3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering [Paper](https://arxiv.org/abs/2404.05522) 
+
+(Arxiv 24.04.11) FusionMamba: Efficient Image Fusion with State Space Model [Paper](https://arxiv.org/abs/2404.07932) 
+
+(Arxiv 24.04.11) SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction [Paper](https://arxiv.org/abs/2404.08027) 
+
+(Arxiv 24.04.12) MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion [Paper](https://arxiv.org/abs/2404.08406) 
+
+(Arxiv 24.04.14) Fusion-Mamba for Cross-modality Object Detection [Paper](https://arxiv.org/abs/2404.09146) 
+
+(Arxiv 24.04.15) FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba [Paper](https://arxiv.org/abs/2404.09498) [Code](https://github.com/millieXie/FusionMamba) ![Stars](https://img.shields.io/github/stars/millieXie/FusionMamba)
 
 (Arxiv 24.04.25) CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions [Paper](https://arxiv.org/abs/2404.16302) [Code](https://github.com/lhy-zjut/CFMW) ![Stars](https://img.shields.io/github/stars/lhy-zjut/CFMW)
 
@@ -232,6 +260,14 @@ Continual improvements are being made to this repository. If you come across any
 [Annotated-Mamba](https://srush.github.io/annotated-mamba/hard.html)
 
 [A Visual Guide to Mamba and State Space Models](https://www.maartengrootendorst.com/blog/mamba/)
+
+## Wechat Group
+
+We welcome the discussion about Mamba Related Work.
+
+If expired, add Wechat: Eugenia_Tang_1999, please note your name and institution.
+
+![Example Image](wechat.jpg)
 
 ## Citation
 
