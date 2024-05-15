@@ -276,10 +276,3 @@ If you find this repository useful, please consider citing our paper:
 }
 ```
 
-## Wechat Group
-
-We welcome the discussion about Mamba Related Work.
-
-If expired, add Wechat: Eugenia_Tang_1999, please note your name and institution.
-
-![Example Image](wechat.jpg)
