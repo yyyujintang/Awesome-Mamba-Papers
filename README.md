@@ -182,7 +182,7 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.04.24) Bi-Mamba4TS: Bidirectional Mamba for Time Series Forecasting [Paper](https://arxiv.org/abs/2404.15772) 
 
 ## Speech/Audio
-(Arxiv 24.05.20) SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model [Paper](https://arxiv.org/abs/2405.11831) 
+(Arxiv 24.05.20) SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model [Paper](https://arxiv.org/abs/2405.11831) [code](https://github.com/SiavashShams/ssamba)
 
 (Arxiv 24.03.27) Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation [Paper](https://arxiv.org/abs/2403.18257) 
 
