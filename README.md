@@ -283,6 +283,8 @@ Continual improvements are being made to this repository. If you come across any
 
 ## Speech/Audio
 
+(Arxiv 24.03.12) Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers [Paper](https://arxiv.org/abs/2403.07675) [code](https://github.com/Audio-WestlakeU/NBSS) ![Stars](https://img.shields.io/github/stars/Audio-WestlakeU/NBSS)
+
 (Arxiv 24.03.27) Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation [Paper](https://arxiv.org/abs/2403.18257) 
 
 (Arxiv 24.04.02) SPMamba: State-space model is all you need in speech separation [Paper](https://arxiv.org/abs/2404.02063) [code](https://github.com/JusperLee/SPMamba) ![Stars](https://img.shields.io/github/stars/JusperLee/SPMamba)
