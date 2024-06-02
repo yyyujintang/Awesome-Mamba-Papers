@@ -65,6 +65,14 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.19) NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba [Paper](https://arxiv.org/abs/2405.11449) 
 
+(Arxiv 24.05.23) EHRMamba: Towards Generalizable and Scalable Foundation Models for Electronic Health Records [Paper](https://arxiv.org/abs/2405.14567) 
+
+(Arxiv 24.05.26) Mamba4KT:An Efficient and Effective Mamba-based Knowledge Tracing Model [Paper](https://arxiv.org/abs/2405.16542) 
+
+(Arxiv 24.05.26) Zamba: A Compact 7B SSM Hybrid Model [Paper](https://arxiv.org/abs/2405.16712) 
+
+(Arxiv 24.05.30) MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba [Paper](https://arxiv.org/abs/2405.20142) 
+
 ## Vision
 
 (Arxiv 24.01.17) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [Paper](https://arxiv.org/abs/2401.09417) [Code](https://github.com/hustvl/Vim) ![Stars](https://img.shields.io/github/stars/hustvl/Vim)
@@ -169,6 +177,14 @@ Continual improvements are being made to this repository. If you come across any
 
 \(Arxiv 24.05.23) Scalable Visual State Space Model with Fractal Scanning [Paper](https://arxiv.org/abs/2405.14480) 
 
+\(Arxiv 24.05.23) Mamba-R: Vision Mamba ALSO Needs Registers [Paper](https://arxiv.org/abs/2405.14858) [Code](https://github.com/wangf3014/Mamba-Reg) ![Stars](https://img.shields.io/github/stars/wangf3014/Mamba-Reg)
+
+\(Arxiv 24.05.24) MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation [Paper](https://arxiv.org/abs/2405.15925) 
+
+\(Arxiv 24.05.29) Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain [Paper](https://arxiv.org/abs/2405.18679) [Code](https://github.com/yws-wxs/Vim-F) ![Stars](https://img.shields.io/github/stars/yws-wxs/Vim-F)
+
+\(Arxiv 24.05.29) FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining [Paper](https://arxiv.org/abs/2405.19450) 
+
 ## Video
 
 (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim) ![Stars](https://img.shields.io/github/stars/scott-yjyang/Vivim)
@@ -184,6 +200,10 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.05.05) Matten: Video Generation with Mamba-Attention [Paper](https://arxiv.org/abs/2405.03025) 
 
 (Arxiv 24.05.23) MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models [Paper](https://arxiv.org/abs/2405.14338) 
+
+(Arxiv 24.05.24) Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation [Paper](https://arxiv.org/abs/2405.15881) 
+
+(Arxiv 24.05.30) DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark [Paper](https://arxiv.org/abs/2405.19707) [Code](https://github.com/chenhaoxing/DeMamba) ![Stars](https://img.shields.io/github/stars/chenhaoxing/DeMamba)
 
 ## Spatiotemporal
 
@@ -237,6 +257,12 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.22) I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling [Paper](https://arxiv.org/abs/2405.14022) 
 
+(Arxiv 24.05.25) UU-Mamba: Uncertainty-aware U-Mamba for Cardiac Image Segmentation [Paper](https://arxiv.org/abs/2405.17496) 
+
+(Arxiv 24.05.27) Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba [Paper](https://arxiv.org/abs/2405.17659) 
+
+(Arxiv 24.05.28) Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba [Paper](https://arxiv.org/abs/2405.18533) 
+
 ## Time Series
 
 (Arxiv 24.03.14) TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting [Paper](https://arxiv.org/abs/2403.09898) [Code](https://github.com/Atik-Ahamed/TimeMachine) ![Stars](https://img.shields.io/github/stars/Atik-Ahamed/TimeMachine)
@@ -250,6 +276,10 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.04.24) Bi-Mamba+: Bidirectional Mamba for Time Series Forecasting [Paper](https://arxiv.org/abs/2404.15772) 
 
 (Arxiv 24.05.11) DTMamba : Dual Twin Mamba for Time Series Forecasting [Paper](https://arxiv.org/abs/2405.07022) 
+
+(Arxiv 24.05.25) Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting [Paper](https://arxiv.org/abs/2405.16312) 
+
+(Arxiv 24.05.26) MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting [Paper](https://arxiv.org/abs/2405.16440) 
 
 ## Speech/Audio
 
@@ -291,6 +321,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.04.23) Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model [Paper](https://arxiv.org/abs/2404.14966) 
 
+(Arxiv 24.05.24) PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis [Paper](https://arxiv.org/abs/2405.15463) [Code ](https://github.com/xiaoyao3302/PoinTramba)![Stars](https://img.shields.io/github/stars/xiaoyao3302/PoinTramba)
+
 ## Recommendation
 
 (Arxiv 24.03.25) Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [Paper](https://arxiv.org/abs/2403.16371) [Code](https://github.com/nancheng58/RecMamba) ![Stars](https://img.shields.io/github/stars/nancheng58/RecMamba)
@@ -319,6 +351,10 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.04.30) CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation [Paper](https://arxiv.org/abs/2404.19394) [Code](https://github.com/raytrun/mamba-clip) ![Stars](https://img.shields.io/github/stars/raytrun/mamba-clip)
 
+(Arxiv 24.05.24) Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models [Paper](https://arxiv.org/abs/2405.15574) [Code](https://github.com/raytrun/mamba-clip) ![Stars](https://img.shields.io/github/stars/raytrun/mamba-clip)
+
+(Arxiv 24.05.28) Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model [Paper](https://arxiv.org/abs/2405.18014) 
+
 ## Reinforcement Learning
 
 (Arxiv 24.03.29) Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [Paper](https://arxiv.org/abs/2403.19925) 
@@ -332,6 +368,14 @@ Continual improvements are being made to this repository. If you come across any
  (ICLR 2022) S4: Efficiently Modeling Long Sequences with Structured State Spaces [Paper](https://arxiv.org/abs/2111.00396v3) [Code ](https://github.com/state-spaces/s4)![Stars](https://img.shields.io/github/stars/state-spaces/s4)
 
  (ICLR 2023) H3: Hungry Hungry Hippos: Toward Language Modeling with State Space Models [Paper](https://arxiv.org/abs/2212.14052) [Code](https://github.com/HazyResearch/H3) ![Stars](https://img.shields.io/github/stars/HazyResearch/H3)
+
+(Arxiv 24.05.26) A Unified Implicit Attention Formulation for Gated-Linear Recurrent Sequence Models [Paper](https://arxiv.org/abs/2405.16504) [Code](https://github.com/Itamarzimm/UnifiedImplicitAttnRepr) ![Stars](https://img.shields.io/github/stars/Itamarzimm/UnifiedImplicitAttnRepr)
+
+(Arxiv 24.05.26) Demystify Mamba in Vision: A Linear Attention Perspective [Paper](https://arxiv.org/abs/2405.16605) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
+
+(Arxiv 24.05.27) The Expressive Capacity of State Space Models: A Formal Language Perspective [Paper](https://arxiv.org/abs/2405.17394) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
+
+(Arxiv 24.05.28) DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention [Paper](https://arxiv.org/abs/2405.18428) [Code](https://github.com/hustvl/DiG) ![Stars](https://img.shields.io/github/stars/hustvl/DiG)
 
 ## Other Useful Sources
 
