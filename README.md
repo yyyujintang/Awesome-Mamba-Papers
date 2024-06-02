@@ -63,6 +63,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.04.12) SpectralMamba: Efficient Mamba for Hyperspectral Image Classification [Paper](https://arxiv.org/abs/2404.08489) [Code](https://github.com/danfenghong/SpectralMamba) ![Stars](https://img.shields.io/github/stars/danfenghong/SpectralMamba)
 
+(Arxiv 24.05.19) NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba [Paper](https://arxiv.org/abs/2405.11449) 
+
 ## Vision
 
 (Arxiv 24.01.17) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [Paper](https://arxiv.org/abs/2401.09417) [Code](https://github.com/hustvl/Vim) ![Stars](https://img.shields.io/github/stars/hustvl/Vim)
@@ -141,6 +143,32 @@ Continual improvements are being made to this repository. If you come across any
 
 \(Arxiv 24.05.09) Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression: EventMamba [Paper](https://arxiv.org/abs/2405.06116) 
 
+\(Arxiv 24.05.13) GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images [Paper](https://arxiv.org/abs/2405.07777)  
+
+\(Arxiv 24.05.13) OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition [Paper](https://arxiv.org/abs/2405.07966) 
+
+\(Arxiv 24.05.13) MambaOut: Do We Really Need Mamba for Vision? [Paper](https://arxiv.org/abs/2405.07992) [Code](https://github.com/yuweihao/MambaOut) ![Stars](https://img.shields.io/github/stars/yuweihao/MambaOut) 
+
+\(Arxiv 24.05.14) Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study [Paper](https://arxiv.org/abs/2405.08493) 
+
+\(Arxiv 24.05.16) IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model [Paper](https://arxiv.org/abs/2405.09873) [Code](https://github.com/yongsongH/IRSRMamba) ![Stars](https://img.shields.io/github/stars/yongsongH/IRSRMamba)
+
+\(Arxiv 24.05.16) RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing [Paper](https://arxiv.org/abs/2405.10030) 
+
+\(Arxiv 24.05.17) CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation [Paper](https://arxiv.org/abs/2405.10530) [Code](https://github.com/XiaoBuL/CM-UNet) ![Stars](https://img.shields.io/github/stars/XiaoBuL/CM-UNet)
+
+\(Arxiv 24.05.16) IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model [Paper](https://arxiv.org/abs/2405.09873) [Code](https://github.com/yongsongH/IRSRMamba) ![Stars](https://img.shields.io/github/stars/yongsongH/IRSRMamba)
+
+\(Arxiv 24.05.20) Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification [Paper](https://arxiv.org/abs/2405.12003) [Code](https://github.com/zhouweilian1904/Mamba-in-Mamba) ![Stars](https://img.shields.io/github/stars/zhouweilian1904/Mamba-in-Mamba)
+
+\(Arxiv 24.05.21) 3DSS-Mamba: 3D-Spectral-Spatial Mamba for Hyperspectral Image Classification [Paper](https://arxiv.org/abs/2405.12487) 
+
+\(Arxiv 24.05.23) Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model [Paper](https://arxiv.org/abs/2405.12003) [Code](https://github.com/YuHengsss/MSVMamba) ![Stars](https://img.shields.io/github/stars/YuHengsss/MSVMamba)
+
+\(Arxiv 24.05.23) DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis [Paper](https://arxiv.org/abs/2405.14224) [Code](https://github.com/tyshiwo1/DiM-DiffusionMamba/) ![Stars](https://img.shields.io/github/stars/tyshiwo1/DiM-DiffusionMamba)
+
+\(Arxiv 24.05.23) Scalable Visual State Space Model with Fractal Scanning [Paper](https://arxiv.org/abs/2405.14480) 
+
 ## Video
 
 (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim) ![Stars](https://img.shields.io/github/stars/scott-yjyang/Vivim)
@@ -154,6 +182,8 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.04.11) Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [Paper](https://arxiv.org/abs/2404.07645) 
 
 (Arxiv 24.05.05) Matten: Video Generation with Mamba-Attention [Paper](https://arxiv.org/abs/2405.03025) 
+
+(Arxiv 24.05.23) MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models [Paper](https://arxiv.org/abs/2405.14338) 
 
 ## Spatiotemporal
 
@@ -205,6 +235,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.08) VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis [Paper](https://arxiv.org/abs/2405.05667) 
 
+(Arxiv 24.05.22) I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling [Paper](https://arxiv.org/abs/2405.14022) 
+
 ## Time Series
 
 (Arxiv 24.03.14) TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting [Paper](https://arxiv.org/abs/2403.09898) [Code](https://github.com/Atik-Ahamed/TimeMachine) ![Stars](https://img.shields.io/github/stars/Atik-Ahamed/TimeMachine)
@@ -229,6 +261,14 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.10) An Investigation of Incorporating Mamba for Speech Enhancement [Paper](https://arxiv.org/abs/2405.06573)
 
+(Arxiv 24.05.18) MAMCA -- Optimal on Accuracy and Efficiency for Automatic Modulation Classification with Extended Signal Length [Paper](https://arxiv.org/abs/2405.11263) [code](https://github.com/ZhangYezhuo/MAMCA) ![Stars](https://img.shields.io/github/stars/ZhangYezhuo/MAMCA)
+
+(Arxiv 24.05.20) SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model [Paper](https://arxiv.org/abs/2405.11831) [code](https://github.com/SiavashShams/ssamba) ![Stars](https://img.shields.io/github/stars/ZhangYezhuo/MAMCA)
+
+(Arxiv 24.05.21) Mamba in Speech: Towards an Alternative to Self-Attention [Paper](https://arxiv.org/abs/2405.12609) 
+
+(Arxiv 24.05.22) Audio Mamba: Pretrained Audio State Space Model For Audio Tagging [Paper](https://arxiv.org/abs/2405.13636) 
+
 ## Graph
 
 (Arxiv 24.02.01) Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces [Paper](https://browse.arxiv.org/abs/2402.00789) [Code](https://github.com/bowang-lab/Graph-Mamba)![Stars](https://img.shields.io/github/stars/bowang-lab/Graph-Mamba)
@@ -236,6 +276,8 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.02.13) Graph Mamba: Towards Learning on Graphs with State Space Models [Paper](https://arxiv.org/abs/2402.08678) [Code](https://github.com/GraphMamba/GMN) ![Stars](https://img.shields.io/github/stars/GraphMamba/GMN)
 
 (Arxiv 24.03.19) STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [Paper](https://arxiv.org/abs/2403.12418) 
+
+(Arxiv 24.05.22) STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [Paper](https://arxiv.org/abs/2405.13915) 
 
 ## Point Cloud
 
@@ -280,6 +322,8 @@ Continual improvements are being made to this repository. If you come across any
 ## Reinforcement Learning
 
 (Arxiv 24.03.29) Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [Paper](https://arxiv.org/abs/2403.19925) 
+
+(Arxiv 24.05.20) Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? [Paper](https://arxiv.org/abs/2405.12094) 
 
 ## State Space Model (SSM)
 
