@@ -125,7 +125,7 @@ Continual improvements are being made to this repository. If you come across any
 
 \(Arxiv 24.05.02) SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients [Paper](https://arxiv.org/abs/2405.01726) [Code](https://github.com/yash2629/S.O.A.R) ![Stars](https://img.shields.io/github/stars/yash2629/S.O.A.R)
 
-\(Arxiv 24.05.02) SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising [Paper](https://arxiv.org/abs/2405.01828) [Code](https:/github.com/lronkitty/SSUMamba) ![Stars](https:/img.shields.io/github/stars/lronkitty/SSUMamba)
+\(Arxiv 24.05.02) SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising [Paper](https://arxiv.org/abs/2405.01828) [Code](https:/github.com/lronkitty/SSUMamba) ![Stars](https://img.shields.io/github/stars/lronkitty/SSUMamba)
 
 \(Arxiv 24.05.05) SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion [Paper](https://arxiv.org/abs/2405.02844) 
 
