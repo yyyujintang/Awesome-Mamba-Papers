@@ -51,8 +51,6 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.13) ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes [Paper](https://arxiv.org/abs/2403.05795)
 
-(Arxiv 24.03.21) ZigMa: Zigzag Mamba Diffusion Model [Paper](https://arxiv.org/abs/2403.13802) [Code](https://github.com/CompVis/zigma) ![Stars](https://img.shields.io/github/stars/CompVis/zigma)
-
 (Arxiv 24.03.26) State Space Models as Foundation Models: A Control Theoretic Overview [Paper](https://arxiv.org/abs/2403.16899) 
 
 (Arxiv 24.03.28) Jamba: A Hybrid Transformer-Mamba Language Model [Paper](https://arxiv.org/abs/2403.19887) [Code](https://huggingface.co/ai21labs/Jamba-v0.1) 
@@ -137,8 +135,6 @@ Continual improvements are being made to this repository. If you come across any
 
 \(Arxiv 24.05.02) SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising [Paper](https://arxiv.org/abs/2405.01828) [Code](https:/github.com/lronkitty/SSUMamba) ![Stars](https://img.shields.io/github/stars/lronkitty/SSUMamba)
 
-\(Arxiv 24.05.05) SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion [Paper](https://arxiv.org/abs/2405.02844) 
-
 \(Arxiv 24.05.05) DVMSR: Distillated Vision Mamba for Efficient Super-Resolution [Paper](https://arxiv.org/abs/2405.03008) [Code](https://github.com/nathan66666/DVMSR) ![Stars](https://img.shields.io/github/stars/nathan66666/DVMSR)
 
 \(Arxiv 24.05.05) AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation [Paper](https://arxiv.org/abs/2405.03011) [Code](https://github.com/vietthanh2710/AC-MambaSeg) ![Stars](https://img.shields.io/github/stars/vietthanh2710/AC-MambaSeg)
@@ -172,8 +168,6 @@ Continual improvements are being made to this repository. If you come across any
 \(Arxiv 24.05.21) 3DSS-Mamba: 3D-Spectral-Spatial Mamba for Hyperspectral Image Classification [Paper](https://arxiv.org/abs/2405.12487) 
 
 \(Arxiv 24.05.23) Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model [Paper](https://arxiv.org/abs/2405.12003) [Code](https://github.com/YuHengsss/MSVMamba) ![Stars](https://img.shields.io/github/stars/YuHengsss/MSVMamba)
-
-\(Arxiv 24.05.23) DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis [Paper](https://arxiv.org/abs/2405.14224) [Code](https://github.com/tyshiwo1/DiM-DiffusionMamba/) ![Stars](https://img.shields.io/github/stars/tyshiwo1/DiM-DiffusionMamba)
 
 \(Arxiv 24.05.23) Scalable Visual State Space Model with Fractal Scanning [Paper](https://arxiv.org/abs/2405.14480) 
 
@@ -363,6 +357,20 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.20) Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? [Paper](https://arxiv.org/abs/2405.12094) 
 
+## Diffusion
+
+(Arxiv 24.03.21) ZigMa: Zigzag Mamba Diffusion Model [Paper](https://arxiv.org/abs/2403.13802) [Code](https://github.com/CompVis/zigma) ![Stars](https://img.shields.io/github/stars/CompVis/zigma)
+
+\(Arxiv 24.05.05) SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion [Paper](https://arxiv.org/abs/2405.02844) 
+
+(Arxiv 24.05.08) VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis [Paper](https://arxiv.org/abs/2405.05667) 
+
+\(Arxiv 24.05.23) DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis [Paper](https://arxiv.org/abs/2405.14224) [Code](https://github.com/tyshiwo1/DiM-DiffusionMamba/) ![Stars](https://img.shields.io/github/stars/tyshiwo1/DiM-DiffusionMamba)
+
+(Arxiv 24.05.24) Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation [Paper](https://arxiv.org/abs/2405.15881) 
+
+(Arxiv 24.05.28) DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention [Paper](https://arxiv.org/abs/2405.18428) [Code](https://github.com/hustvl/DiG) ![Stars](https://img.shields.io/github/stars/hustvl/DiG)
+
 ## State Space Model (SSM)
 
  (NeurIPS 2020 Spotlight) HiPPO: Recurrent Memory with Optimal Polynomial Projections [Paper](https://arxiv.org/abs/2008.07669) [Code](https://github.com/HazyResearch/hippo-code) ![Stars](https://img.shields.io/github/stars/HazyResearch/hippo-code)
@@ -376,8 +384,6 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.05.26) Demystify Mamba in Vision: A Linear Attention Perspective [Paper](https://arxiv.org/abs/2405.16605) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
 
 (Arxiv 24.05.27) The Expressive Capacity of State Space Models: A Formal Language Perspective [Paper](https://arxiv.org/abs/2405.17394) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
-
-(Arxiv 24.05.28) DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention [Paper](https://arxiv.org/abs/2405.18428) [Code](https://github.com/hustvl/DiG) ![Stars](https://img.shields.io/github/stars/hustvl/DiG)
 
 ## Other Useful Sources
 
