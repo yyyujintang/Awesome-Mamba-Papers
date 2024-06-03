@@ -385,7 +385,7 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.27) The Expressive Capacity of State Space Models: A Formal Language Perspective [Paper](https://arxiv.org/abs/2405.17394) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
 
-(Arxiv 24.05.31, ICML24, Mamba-2) Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality [Paper](https://arxiv.org/abs/2405.21060) 
+(Arxiv 24.05.31, ICML24) Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality [Paper](https://arxiv.org/abs/2405.21060) 
 
 ## Other Useful Sources
 
