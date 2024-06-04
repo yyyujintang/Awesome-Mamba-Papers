@@ -321,6 +321,8 @@ Continual improvements are being made to this repository. If you come across any
 
 ## Recommendation
 
+(Arxiv 24.03.06) Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models [Paper](https://arxiv.org/abs/2403.03900) [Code](https://github.com/chengkai-liu/Mamba4Rec) ![Stars](https://img.shields.io/github/stars/chengkai-liu/Mamba4Rec)
+
 (Arxiv 24.03.25) Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [Paper](https://arxiv.org/abs/2403.16371) [Code](https://github.com/nancheng58/RecMamba) ![Stars](https://img.shields.io/github/stars/nancheng58/RecMamba)
 
 ## Multimodal
