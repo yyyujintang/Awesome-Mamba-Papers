@@ -8,7 +8,7 @@ Continual improvements are being made to this repository. If you come across any
 ## News
 
 - SegMamba accepted by MICCAI24!
-- Mamba-2, VMamba accepted by ICML24!
+- Mamba-2, VIM accepted by ICML24!
 
 ## Survey
 
