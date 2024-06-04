@@ -5,6 +5,11 @@ This repository compiles a list of papers related to Mamba and SSM.
 
 Continual improvements are being made to this repository. If you come across any relevant papers that should be included, please don't hesitate to open an issue.
 
+## News
+
+- SegMamba accepted by MICCAI24!
+- Mamba-2, VMamba accepted by ICML24!
+
 ## Survey
 
 (Arxiv 24.04.15) State Space Model for New-Generation Network Alternative to Transformers: A Survey [Paper](https://arxiv.org/abs/2404.09516) [Code](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List) ![Stars](https://img.shields.io/github/stars/Event-AHU/Mamba_State_Space_Model_Paper_List)
@@ -17,9 +22,25 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.07) Vision Mamba: A Comprehensive Survey and Taxonomy [Paper](https://arxiv.org/abs/2405.04404) [Code](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy) ![Stars](https://img.shields.io/github/stars/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)
 
+## State Space Model (SSM)
+
+ (NeurIPS 2020 Spotlight) HiPPO: Recurrent Memory with Optimal Polynomial Projections [Paper](https://arxiv.org/abs/2008.07669) [Code](https://github.com/HazyResearch/hippo-code) ![Stars](https://img.shields.io/github/stars/HazyResearch/hippo-code)
+
+ (ICLR 2022) S4: Efficiently Modeling Long Sequences with Structured State Spaces [Paper](https://arxiv.org/abs/2111.00396v3) [Code ](https://github.com/state-spaces/s4)![Stars](https://img.shields.io/github/stars/state-spaces/s4)
+
+ (ICLR 2023) H3: Hungry Hungry Hippos: Toward Language Modeling with State Space Models [Paper](https://arxiv.org/abs/2212.14052) [Code](https://github.com/HazyResearch/H3) ![Stars](https://img.shields.io/github/stars/HazyResearch/H3)
+
+(Arxiv 24.05.26) A Unified Implicit Attention Formulation for Gated-Linear Recurrent Sequence Models [Paper](https://arxiv.org/abs/2405.16504) [Code](https://github.com/Itamarzimm/UnifiedImplicitAttnRepr) ![Stars](https://img.shields.io/github/stars/Itamarzimm/UnifiedImplicitAttnRepr)
+
+(Arxiv 24.05.26) Demystify Mamba in Vision: A Linear Attention Perspective [Paper](https://arxiv.org/abs/2405.16605) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
+
+(Arxiv 24.05.27) The Expressive Capacity of State Space Models: A Formal Language Perspective [Paper](https://arxiv.org/abs/2405.17394) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
+
+(Arxiv 24.05.31, ICML24, **Mamba-2**) Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality [Paper](https://arxiv.org/abs/2405.21060)  [Code](https://github.com/state-spaces/mamba) ![Stars](https://img.shields.io/github/stars/state-spaces/mamba)
+
 ## Mamba
 
-(Arxiv 23.12.01) Mamba: Linear-Time Sequence Modeling with Selective State Spaces [Paper](https://arxiv.org/abs/2312.00752) [Code](https://github.com/state-spaces/mamba) ![Stars](https://img.shields.io/github/stars/state-spaces/mamba)
+(Arxiv 23.12.01) **Mamba**: Linear-Time Sequence Modeling with Selective State Spaces [Paper](https://arxiv.org/abs/2312.00752) [Code](https://github.com/state-spaces/mamba) ![Stars](https://img.shields.io/github/stars/state-spaces/mamba)
 
 (Arxiv 24.01.08) MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts [Paper](https://arxiv.org/abs/2401.04081) 
 
@@ -211,7 +232,7 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.01.09) U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation [Paper](https://arxiv.org/abs/2401.04722) [Code](https://github.com/bowang-lab/U-Mamba) ![Stars](https://img.shields.io/github/stars/bowang-lab/U-Mamba)
 
-(Arxiv 24.01.24) SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation [Paper](https://arxiv.org/abs/2401.13560) [Code](https://github.com/ge-xing/SegMamba) ![Stars](https://img.shields.io/github/stars/ge-xing/SegMamba)
+(Arxiv 24.01.24, MICCAI24) SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation [Paper](https://arxiv.org/abs/2401.13560) [Code](https://github.com/ge-xing/SegMamba) ![Stars](https://img.shields.io/github/stars/ge-xing/SegMamba)
 
 (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim) ![Stars](https://img.shields.io/github/stars/scott-yjyang/Vivim)
 
@@ -372,22 +393,6 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.05.24) Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation [Paper](https://arxiv.org/abs/2405.15881) 
 
 (Arxiv 24.05.28) DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention [Paper](https://arxiv.org/abs/2405.18428) [Code](https://github.com/hustvl/DiG) ![Stars](https://img.shields.io/github/stars/hustvl/DiG)
-
-## State Space Model (SSM)
-
- (NeurIPS 2020 Spotlight) HiPPO: Recurrent Memory with Optimal Polynomial Projections [Paper](https://arxiv.org/abs/2008.07669) [Code](https://github.com/HazyResearch/hippo-code) ![Stars](https://img.shields.io/github/stars/HazyResearch/hippo-code)
-
- (ICLR 2022) S4: Efficiently Modeling Long Sequences with Structured State Spaces [Paper](https://arxiv.org/abs/2111.00396v3) [Code ](https://github.com/state-spaces/s4)![Stars](https://img.shields.io/github/stars/state-spaces/s4)
-
- (ICLR 2023) H3: Hungry Hungry Hippos: Toward Language Modeling with State Space Models [Paper](https://arxiv.org/abs/2212.14052) [Code](https://github.com/HazyResearch/H3) ![Stars](https://img.shields.io/github/stars/HazyResearch/H3)
-
-(Arxiv 24.05.26) A Unified Implicit Attention Formulation for Gated-Linear Recurrent Sequence Models [Paper](https://arxiv.org/abs/2405.16504) [Code](https://github.com/Itamarzimm/UnifiedImplicitAttnRepr) ![Stars](https://img.shields.io/github/stars/Itamarzimm/UnifiedImplicitAttnRepr)
-
-(Arxiv 24.05.26) Demystify Mamba in Vision: A Linear Attention Perspective [Paper](https://arxiv.org/abs/2405.16605) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
-
-(Arxiv 24.05.27) The Expressive Capacity of State Space Models: A Formal Language Perspective [Paper](https://arxiv.org/abs/2405.17394) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
-
-(Arxiv 24.05.31, ICML24) Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality [Paper](https://arxiv.org/abs/2405.21060) 
 
 ## Other Useful Sources
 
