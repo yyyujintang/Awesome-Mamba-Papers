@@ -326,8 +326,6 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.19) STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [Paper](https://arxiv.org/abs/2403.12418) 
 
-(Arxiv 24.05.22) STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [Paper](https://arxiv.org/abs/2405.13915) 
-
 ## Point Cloud
 
 (Arxiv 24.02.16) PointMamba: A Simple State Space Model for Point Cloud Analysis [Paper](https://arxiv.org/abs/2402.10739) [Code](https://github.com/LMD0311/PointMamba) ![Stars](https://img.shields.io/github/stars/LMD0311/PointMamba)
@@ -348,7 +346,7 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.25) Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [Paper](https://arxiv.org/abs/2403.16371) [Code](https://github.com/nancheng58/RecMamba) ![Stars](https://img.shields.io/github/stars/nancheng58/RecMamba)
 
-(Arxiv 24.06.04) Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning [Paper](https://arxiv.org/abs/2406.02013) [Code](https://github.com/AndyCao1125/MambaDM) ![Stars](https://img.shields.io/github/stars/nancheng58/RecMamba)
+(Arxiv 24.06.04) Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning [Paper](https://arxiv.org/abs/2406.02013) [Code](https://github.com/AndyCao1125/MambaDM) ![Stars](https://img.shields.io/github/stars/AndyCao1125/MambaDM)
 
 ## Multimodal
 
