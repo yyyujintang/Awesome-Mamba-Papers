@@ -32,15 +32,15 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.26) A Unified Implicit Attention Formulation for Gated-Linear Recurrent Sequence Models [Paper](https://arxiv.org/abs/2405.16504) [Code](https://github.com/Itamarzimm/UnifiedImplicitAttnRepr) ![Stars](https://img.shields.io/github/stars/Itamarzimm/UnifiedImplicitAttnRepr)
 
-(Arxiv 24.05.26) Demystify Mamba in Vision: A Linear Attention Perspective [Paper](https://arxiv.org/abs/2405.16605) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
+**(Arxiv 24.05.26) Demystify Mamba in Vision: A Linear Attention Perspective** [Paper](https://arxiv.org/abs/2405.16605) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
 
 (Arxiv 24.05.27) The Expressive Capacity of State Space Models: A Formal Language Perspective [Paper](https://arxiv.org/abs/2405.17394) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
 
-(Arxiv 24.05.31, ICML24, **Mamba-2**) Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality [Paper](https://arxiv.org/abs/2405.21060)  [Code](https://github.com/state-spaces/mamba) ![Stars](https://img.shields.io/github/stars/state-spaces/mamba)
+**(Arxiv 24.05.31, ICML24, Mamba-2) Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality** [Paper](https://arxiv.org/abs/2405.21060)  [Code](https://github.com/state-spaces/mamba) ![Stars](https://img.shields.io/github/stars/state-spaces/mamba)
 
 ## Mamba
 
-(Arxiv 23.12.01) **Mamba**: Linear-Time Sequence Modeling with Selective State Spaces [Paper](https://arxiv.org/abs/2312.00752) [Code](https://github.com/state-spaces/mamba) ![Stars](https://img.shields.io/github/stars/state-spaces/mamba)
+**(Arxiv 23.12.01) Mamba: Linear-Time Sequence Modeling with Selective State Spaces** [Paper](https://arxiv.org/abs/2312.00752) [Code](https://github.com/state-spaces/mamba) ![Stars](https://img.shields.io/github/stars/state-spaces/mamba)
 
 (Arxiv 24.01.08) MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts [Paper](https://arxiv.org/abs/2401.04081) 
 
@@ -82,6 +82,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.04.12) SpectralMamba: Efficient Mamba for Hyperspectral Image Classification [Paper](https://arxiv.org/abs/2404.08489) [Code](https://github.com/danfenghong/SpectralMamba) ![Stars](https://img.shields.io/github/stars/danfenghong/SpectralMamba)
 
+\(**Arxiv 24.05.13) MambaOut: Do We Really Need Mamba for Vision?** [Paper](https://arxiv.org/abs/2405.07992) [Code](https://github.com/yuweihao/MambaOut) ![Stars](https://img.shields.io/github/stars/yuweihao/MambaOut) 
+
 (Arxiv 24.05.19) NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba [Paper](https://arxiv.org/abs/2405.11449) 
 
 (Arxiv 24.05.23) EHRMamba: Towards Generalizable and Scalable Foundation Models for Electronic Health Records [Paper](https://arxiv.org/abs/2405.14567) 
@@ -94,9 +96,9 @@ Continual improvements are being made to this repository. If you come across any
 
 ## Vision
 
-(Arxiv 24.01.17) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [Paper](https://arxiv.org/abs/2401.09417) [Code](https://github.com/hustvl/Vim) ![Stars](https://img.shields.io/github/stars/hustvl/Vim)
+**(Arxiv 24.01.17) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model** [Paper](https://arxiv.org/abs/2401.09417) [Code](https://github.com/hustvl/Vim) ![Stars](https://img.shields.io/github/stars/hustvl/Vim)
 
-(Arxiv 24.01.18) VMamba: Visual State Space Model [Paper](https://arxiv.org/abs/2401.10166) [Code](https://github.com/MzeroMiko/VMamba) ![Stars](https://img.shields.io/github/stars/MzeroMiko/VMamba)
+**(Arxiv 24.01.18) VMamba: Visual State Space Model** [Paper](https://arxiv.org/abs/2401.10166) [Code](https://github.com/MzeroMiko/VMamba) ![Stars](https://img.shields.io/github/stars/MzeroMiko/VMamba)
 
 (Arxiv 24.02.05) Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining [Paper](https://arxiv.org/abs/2402.03302) [Code](https://github.com/JiarunLiu/Swin-UMamba) ![Stars](https://img.shields.io/github/stars/JiarunLiu/Swin-UMamba)
 
@@ -171,8 +173,6 @@ Continual improvements are being made to this repository. If you come across any
 \(Arxiv 24.05.13) GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images [Paper](https://arxiv.org/abs/2405.07777)  
 
 \(Arxiv 24.05.13) OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition [Paper](https://arxiv.org/abs/2405.07966) 
-
-\(Arxiv 24.05.13) MambaOut: Do We Really Need Mamba for Vision? [Paper](https://arxiv.org/abs/2405.07992) [Code](https://github.com/yuweihao/MambaOut) ![Stars](https://img.shields.io/github/stars/yuweihao/MambaOut) 
 
 \(Arxiv 24.05.14) Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study [Paper](https://arxiv.org/abs/2405.08493) 
 
