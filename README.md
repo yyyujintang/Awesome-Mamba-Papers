@@ -314,7 +314,9 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.21) Mamba in Speech: Towards an Alternative to Self-Attention [Paper](https://arxiv.org/abs/2405.12609) 
 
-(Arxiv 24.05.22) Audio Mamba: Pretrained Audio State Space Model For Audio Tagging [Paper](https://arxiv.org/abs/2405.13636) 
+(Arxiv 24.05.22) Audio Mamba: Pretrained Audio State Space Model For Audio Tagging [Paper](https://arxiv.org/abs/2405.13636)
+
+(Arxiv 24.06.04, INTERSPEECH 2024) Audio Mamba: Pretrained Audio State Space Model For Audio Tagging [Paper](https://arxiv.org/abs/2406.02178)
 
 ## Graph
 
@@ -346,6 +348,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.25) Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation [Paper](https://arxiv.org/abs/2403.16371) [Code](https://github.com/nancheng58/RecMamba) ![Stars](https://img.shields.io/github/stars/nancheng58/RecMamba)
 
+(Arxiv 24.06.04) Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning [Paper](https://arxiv.org/abs/2406.02013) [Code](https://github.com/AndyCao1125/MambaDM) ![Stars](https://img.shields.io/github/stars/nancheng58/RecMamba)
+
 ## Multimodal
 
 (Arxiv 24.03.20) VL-Mamba: Exploring State Space Models for Multimodal Learning [Paper](https://arxiv.org/abs/2403.13600) [Code](https://github.com/ZhengYu518/VL-Mamba) ![Stars](https://img.shields.io/github/stars/ZhengYu518/VL-Mamba)
@@ -370,7 +374,7 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.04.30) CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation [Paper](https://arxiv.org/abs/2404.19394) [Code](https://github.com/raytrun/mamba-clip) ![Stars](https://img.shields.io/github/stars/raytrun/mamba-clip)
 
-(Arxiv 24.05.24) Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models [Paper](https://arxiv.org/abs/2405.15574) [Code](https://github.com/raytrun/mamba-clip) ![Stars](https://img.shields.io/github/stars/raytrun/mamba-clip)
+(Arxiv 24.05.24) Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models [Paper](https://arxiv.org/abs/2405.15574) [Code](https://github.com/ByungKwanLee/Meteor) ![Stars](https://img.shields.io/github/stars/ByungKwanLee/Meteor)
 
 (Arxiv 24.05.28) Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model [Paper](https://arxiv.org/abs/2405.18014) 
 
@@ -379,6 +383,8 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.03.29) Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [Paper](https://arxiv.org/abs/2403.19925) 
 
 (Arxiv 24.05.20) Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? [Paper](https://arxiv.org/abs/2405.12094) 
+
+(Arxiv 24.05.31) Decision Mamba: Reinforcement Learning via Hybrid Selective Sequence Modeling? [Paper](https://arxiv.org/abs/2406.00079) 
 
 ## Diffusion
 
@@ -393,6 +399,8 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.05.24) Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation [Paper](https://arxiv.org/abs/2405.15881) 
 
 (Arxiv 24.05.28) DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention [Paper](https://arxiv.org/abs/2405.18428) [Code](https://github.com/hustvl/DiG) ![Stars](https://img.shields.io/github/stars/hustvl/DiG)
+
+(Arxiv 24.06.03) Dimba: Transformer-Mamba Diffusion Models [Paper](https://arxiv.org/abs/2406.01159) [Code](https://github.com/feizc/Dimba) ![Stars](https://img.shields.io/github/stars/feizc/Dimba)
 
 ## Other Useful Sources
 
