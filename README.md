@@ -298,6 +298,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.26) MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting [Paper](https://arxiv.org/abs/2405.16440) 
 
+(Arxiv 24.06.06) Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models [Paper](https://arxiv.org/abs/2406.04320) 
+
 ## Speech/Audio
 
 (Arxiv 24.03.12) Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers [Paper](https://arxiv.org/abs/2403.07675) [code](https://github.com/Audio-WestlakeU/NBSS) ![Stars](https://img.shields.io/github/stars/Audio-WestlakeU/NBSS)
@@ -319,6 +321,8 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.05.22) Audio Mamba: Pretrained Audio State Space Model For Audio Tagging [Paper](https://arxiv.org/abs/2405.13636)
 
 (Arxiv 24.06.04, INTERSPEECH 2024) Audio Mamba: Pretrained Audio State Space Model For Audio Tagging [Paper](https://arxiv.org/abs/2406.02178)
+
+(Arxiv 24.06.05) Audio Mamba: Bidirectional State Space Model for Audio Representation Learning [Paper](https://arxiv.org/abs/2406.03344)
 
 ## Graph
 
@@ -386,6 +390,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.31) Decision Mamba: Reinforcement Learning via Hybrid Selective Sequence Modeling? [Paper](https://arxiv.org/abs/2406.00079) 
 
+(Arxiv 24.06.04) EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation [Paper](https://arxiv.org/abs/2406.02638) 
+
 ## Diffusion
 
 (Arxiv 24.03.21) ZigMa: Zigzag Mamba Diffusion Model [Paper](https://arxiv.org/abs/2403.13802) [Code](https://github.com/CompVis/zigma) ![Stars](https://img.shields.io/github/stars/CompVis/zigma)
@@ -401,6 +407,10 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.05.28) DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention [Paper](https://arxiv.org/abs/2405.18428) [Code](https://github.com/hustvl/DiG) ![Stars](https://img.shields.io/github/stars/hustvl/DiG)
 
 (Arxiv 24.06.03) Dimba: Transformer-Mamba Diffusion Models [Paper](https://arxiv.org/abs/2406.01159) [Code](https://github.com/feizc/Dimba) ![Stars](https://img.shields.io/github/stars/feizc/Dimba)
+
+## Embodied AI
+
+(Arxiv 24.06.06) RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation [Paper](https://arxiv.org/abs/2406.04339) [Code](https://github.com/lmzpai/roboMamba) ![Stars](https://img.shields.io/github/stars/lmzpai/roboMamba)
 
 ## Other Useful Sources
 
