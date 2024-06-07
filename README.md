@@ -22,6 +22,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.07) Vision Mamba: A Comprehensive Survey and Taxonomy [Paper](https://arxiv.org/abs/2405.04404) [Code](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy) ![Stars](https://img.shields.io/github/stars/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)
 
+(Arxiv 24.06.05) Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis [Paper](https://arxiv.org/abs/2406.03430) [Code](https://github.com/xmindflow/Awesome_Mamba) ![Stars](https://img.shields.io/github/stars/xmindflow/Awesome_Mamba)
+
 ## State Space Model (SSM)
 
  (NeurIPS 2020 Spotlight) HiPPO: Recurrent Memory with Optimal Polynomial Projections [Paper](https://arxiv.org/abs/2008.07669) [Code](https://github.com/HazyResearch/hippo-code) ![Stars](https://img.shields.io/github/stars/HazyResearch/hippo-code)
