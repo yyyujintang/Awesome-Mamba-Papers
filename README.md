@@ -12,7 +12,7 @@ Continual improvements are being made to this repository. If you come across any
 
 ## Survey
 
-(Arxiv 24.06.05) Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis [Paper](https://arxiv.org/abs/2406.03430) [Code (https://github.com/xmindflow/Awesome_Mamba) ![Stars](https://img.shields.io/github/stars/xmindflow/Awesome_Mamba)
+(Arxiv 24.06.05) Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis [Paper](https://arxiv.org/abs/2406.03430) [Code](https://github.com/xmindflow/Awesome_Mamba) ![Stars](https://img.shields.io/github/stars/xmindflow/Awesome_Mamba)
 
 (Arxiv 24.04.15) State Space Model for New-Generation Network Alternative to Transformers: A Survey [Paper](https://arxiv.org/abs/2404.09516) [Code](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List) ![Stars](https://img.shields.io/github/stars/Event-AHU/Mamba_State_Space_Model_Paper_List)
 
