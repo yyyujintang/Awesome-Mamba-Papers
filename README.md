@@ -8,7 +8,7 @@ Continual improvements are being made to this repository. If you come across any
 ## News
 
 - SegMamba accepted by MICCAI24!
-- Mamba-2, VIM accepted by ICML24!
+- Mamba-2, VIM, Caduceus accepted by ICML24!
 
 ## Survey
 
@@ -34,11 +34,11 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.26) A Unified Implicit Attention Formulation for Gated-Linear Recurrent Sequence Models [Paper](https://arxiv.org/abs/2405.16504) [Code](https://github.com/Itamarzimm/UnifiedImplicitAttnRepr) ![Stars](https://img.shields.io/github/stars/Itamarzimm/UnifiedImplicitAttnRepr)
 
-**(Arxiv 24.05.26) Demystify Mamba in Vision: A Linear Attention Perspective** [Paper](https://arxiv.org/abs/2405.16605) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
-
 (Arxiv 24.05.27) The Expressive Capacity of State Space Models: A Formal Language Perspective [Paper](https://arxiv.org/abs/2405.17394) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
 
 **(Arxiv 24.05.31, ICML24, Mamba-2) Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality** [Paper](https://arxiv.org/abs/2405.21060)  [Code](https://github.com/state-spaces/mamba) ![Stars](https://img.shields.io/github/stars/state-spaces/mamba)
+
+**(Arxiv 24.06.04) GrootVL: Tree Topology is All You Need in State Space Model** [Paper](https://arxiv.org/abs/2406.02395) [Code](https://github.com/EasonXiao-888/GrootVL) ![Stars](https://img.shields.io/github/stars/EasonXiao-888/GrootVL)
 
 ## Mamba
 
@@ -95,6 +95,12 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.05.26) Zamba: A Compact 7B SSM Hybrid Model [Paper](https://arxiv.org/abs/2405.16712) 
 
 (Arxiv 24.05.30) MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba [Paper](https://arxiv.org/abs/2405.20142) 
+
+## Language/Sequence Modeling
+
+**(Arxiv 24.03.05, ICML24) Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling** [Paper](https://arxiv.org/abs/2403.03234)  [Code](https://github.com/kuleshov-group/caduceus) ![Stars](https://img.shields.io/github/stars/kuleshov-group/caduceus)
+
+(Arxiv 24.06.11) Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling [Paper](https://arxiv.org/abs/2406.07522)  
 
 ## Vision
 
@@ -198,9 +204,23 @@ Continual improvements are being made to this repository. If you come across any
 
 \(Arxiv 24.05.24) MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation [Paper](https://arxiv.org/abs/2405.15925) 
 
+**(Arxiv 24.05.26) Demystify Mamba in Vision: A Linear Attention Perspective** [Paper](https://arxiv.org/abs/2405.16605) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
+
 \(Arxiv 24.05.29) Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain [Paper](https://arxiv.org/abs/2405.18679) [Code](https://github.com/yws-wxs/Vim-F) ![Stars](https://img.shields.io/github/stars/yws-wxs/Vim-F)
 
 \(Arxiv 24.05.29) FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining [Paper](https://arxiv.org/abs/2405.19450) 
+
+\(Arxiv 24.06.06) MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation [Paper](https://arxiv.org/abs/2406.04532) 
+
+\(Arxiv 24.06.09) HDMba: Hyperspectral Remote Sensing Imagery Dehazing with State Space Model [Paper](https://arxiv.org/abs/2406.05700) 
+
+\(Arxiv 24.06.09) Mamba YOLO: SSMs-Based YOLO For Object Detection [Paper](https://arxiv.org/abs/2406.05835) 
+
+\(Arxiv 24.06.09) MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba [Paper](https://arxiv.org/abs/2406.05992) [Code](https://github.com/PixDeep/MHS-VM) ![Stars](https://img.shields.io/github/stars/PixDeep/MHS-VM)
+
+\(Arxiv 24.06.11) DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification [Paper](https://arxiv.org/abs/2406.07050) 
+
+\(Arxiv 24.06.11) Autoregressive Pretraining with Mamba in Vision [Paper](https://arxiv.org/abs/2406.07537) [Code](https://github.com/OliverRensu/ARM) ![Stars](https://img.shields.io/github/stars/OliverRensu/ARM)
 
 ## Video
 
@@ -280,6 +300,10 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.28) Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba [Paper](https://arxiv.org/abs/2405.18533) 
 
+(Arxiv 24.06.09) Vision Mamba: Cutting-Edge Classification of Alzheimer's Disease with 3D MRI Scans [Paper](https://arxiv.org/abs/2406.05757) 
+
+(Arxiv 24.06.09) Convolution and Attention-Free Mamba-based Cardiac Image Segmentation [Paper](https://arxiv.org/abs/2406.05786) 
+
 ## Time Series
 
 (Arxiv 24.03.14) TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting [Paper](https://arxiv.org/abs/2403.09898) [Code](https://github.com/Atik-Ahamed/TimeMachine) ![Stars](https://img.shields.io/github/stars/Atik-Ahamed/TimeMachine)
@@ -299,6 +323,10 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.05.26) MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting [Paper](https://arxiv.org/abs/2405.16440) 
 
 (Arxiv 24.06.06) Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models [Paper](https://arxiv.org/abs/2406.04320) 
+
+(Arxiv 24.06.06) TSCMamba: Mamba Meets Multi-View Learning for Time Series Classification [Paper](https://arxiv.org/abs/2406.04419) 
+
+(Arxiv 24.06.08) C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting [Paper](https://arxiv.org/abs/2406.05316) 
 
 ## Speech/Audio
 
@@ -324,6 +352,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.06.05) Audio Mamba: Bidirectional State Space Model for Audio Representation Learning [Paper](https://arxiv.org/abs/2406.03344)
 
+(Arxiv 24.06.10) RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection [Paper](https://arxiv.org/abs/2406.06086)
+
 ## Graph
 
 (Arxiv 24.02.01) Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces [Paper](https://browse.arxiv.org/abs/2402.00789) [Code](https://github.com/bowang-lab/Graph-Mamba)![Stars](https://img.shields.io/github/stars/bowang-lab/Graph-Mamba)
@@ -331,6 +361,8 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.02.13) Graph Mamba: Towards Learning on Graphs with State Space Models [Paper](https://arxiv.org/abs/2402.08678) [Code](https://github.com/GraphMamba/GMN) ![Stars](https://img.shields.io/github/stars/GraphMamba/GMN)
 
 (Arxiv 24.03.19) STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [Paper](https://arxiv.org/abs/2403.12418) 
+
+(Arxiv 24.06.05) Combining Graph Neural Network and Mamba to Capture Local and Global Tissue Spatial Relationships in Whole Slide Images [Paper](https://arxiv.org/abs/2406.04377) [Code](https://github.com/rina-ding/gat-mamba) ![Stars](https://img.shields.io/github/stars/rina-ding/gat-mamba)
 
 ## Point Cloud
 
@@ -345,6 +377,8 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.04.23) Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model [Paper](https://arxiv.org/abs/2404.14966) 
 
 (Arxiv 24.05.24) PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis [Paper](https://arxiv.org/abs/2405.15463) [Code ](https://github.com/xiaoyao3302/PoinTramba)![Stars](https://img.shields.io/github/stars/xiaoyao3302/PoinTramba)
+
+(Arxiv 24.06.10) PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis [Paper](https://arxiv.org/abs/2406.06069) 
 
 ## Recommendation
 
@@ -392,6 +426,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.06.04) EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation [Paper](https://arxiv.org/abs/2406.02638) 
 
+(Arxiv 24.06.08) Decision Mamba: A Multi-Grained State Space Model with Self-Evolution Regularization for Offline RL [Paper](https://arxiv.org/abs/2406.05427) 
+
 ## Diffusion
 
 (Arxiv 24.03.21) ZigMa: Zigzag Mamba Diffusion Model [Paper](https://arxiv.org/abs/2403.13802) [Code](https://github.com/CompVis/zigma) ![Stars](https://img.shields.io/github/stars/CompVis/zigma)
@@ -407,6 +443,8 @@ Continual improvements are being made to this repository. If you come across any
 (Arxiv 24.05.28) DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention [Paper](https://arxiv.org/abs/2405.18428) [Code](https://github.com/hustvl/DiG) ![Stars](https://img.shields.io/github/stars/hustvl/DiG)
 
 (Arxiv 24.06.03) Dimba: Transformer-Mamba Diffusion Models [Paper](https://arxiv.org/abs/2406.01159) [Code](https://github.com/feizc/Dimba) ![Stars](https://img.shields.io/github/stars/feizc/Dimba)
+
+(Arxiv 24.06.07) Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs [Paper](https://arxiv.org/abs/2406.05038) [Code](https://github.com/feizc/Dimba) ![Stars](https://img.shields.io/github/stars/feizc/Dimba)
 
 ## Embodied AI
 
