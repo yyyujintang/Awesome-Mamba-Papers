@@ -40,6 +40,8 @@ Continual improvements are being made to this repository. If you come across any
 
 **(Arxiv 24.06.04) GrootVL: Tree Topology is All You Need in State Space Model** [Paper](https://arxiv.org/abs/2406.02395) [Code](https://github.com/EasonXiao-888/GrootVL) ![Stars](https://img.shields.io/github/stars/EasonXiao-888/GrootVL)
 
+**(Arxiv 24.06.12) An Empirical Study of Mamba-based Language Models** [Paper](https://arxiv.org/abs/2406.07887)
+
 ## Mamba
 
 **(Arxiv 23.12.01) Mamba: Linear-Time Sequence Modeling with Selective State Spaces** [Paper](https://arxiv.org/abs/2312.00752) [Code](https://github.com/state-spaces/mamba) ![Stars](https://img.shields.io/github/stars/state-spaces/mamba)
