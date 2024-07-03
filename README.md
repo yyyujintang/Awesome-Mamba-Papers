@@ -432,7 +432,7 @@ Continual improvements are being made to this repository. If you come across any
 
 ## Diffusion
 
-(Arxiv 24.03.21) ZigMa: Zigzag Mamba Diffusion Model [Paper](https://arxiv.org/abs/2403.13802) [Code](https://github.com/CompVis/zigma) ![Stars](https://img.shields.io/github/stars/CompVis/zigma)
+(ECCV 2024) ZigMa: Zigzag Mamba Diffusion Model [Paper](https://arxiv.org/abs/2403.13802) [Code](https://github.com/CompVis/zigma) ![Stars](https://img.shields.io/github/stars/CompVis/zigma)
 
 \(Arxiv 24.05.05) SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion [Paper](https://arxiv.org/abs/2405.02844) 
 
