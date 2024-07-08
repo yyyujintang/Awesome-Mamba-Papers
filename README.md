@@ -224,7 +224,7 @@ Continual improvements are being made to this repository. If you come across any
 
 \(Arxiv 24.06.11) Autoregressive Pretraining with Mamba in Vision [Paper](https://arxiv.org/abs/2406.07537) [Code](https://github.com/OliverRensu/ARM) ![Stars](https://img.shields.io/github/stars/OliverRensu/ARM)
 
-\(Arxiv 24.06.25) SUM: Saliency Unification through Mamba for Visual Attention Modeling [Paper](https://arxiv.org/abs/2406.17815) [Code](https://github.com/Arhosseini77/SUM)
+\(Arxiv 24.06.25) SUM: Saliency Unification through Mamba for Visual Attention Modeling [Paper](https://arxiv.org/abs/2406.17815) [Code](https://github.com/Arhosseini77/SUM) ![Stars](https://img.shields.io/github/stars/Arhosseini77/SUM)
 
 ## Video
 
