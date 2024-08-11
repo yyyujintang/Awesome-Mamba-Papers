@@ -72,7 +72,7 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.11) MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology [Paper](https://arxiv.org/abs/2403.06800) [Code](https://github.com/isyangshu/MambaMIL) ![Stars](https://img.shields.io/github/stars/isyangshu/MambaMIL)
 
-(Arxiv 24.03.12) Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [Paper](https://arxiv.org/abs/2403.07487) [Code](https://github.com/steve-zeyu-zhang/MotionMamba) ![Stars](https://img.shields.io/github/stars/steve-zeyu-zhang/MotionMamba)
+(**ECCV 2024**) Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [Paper](https://arxiv.org/abs/2403.07487) [Code](https://github.com/steve-zeyu-zhang/MotionMamba) ![Stars](https://img.shields.io/github/stars/steve-zeyu-zhang/MotionMamba)
 
 (Arxiv 24.03.13) ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes [Paper](https://arxiv.org/abs/2403.05795)
 
