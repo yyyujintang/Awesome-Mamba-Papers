@@ -252,6 +252,8 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.04.24) ST-MambaSync: The Confluence of Mamba Structure and Spatio-Temporal Transformers for Precipitous Traffic Prediction [Paper](https://arxiv.org/abs/2404.15899) 
 
+(Arxiv 24.08.02) MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection [Paper](https://arxiv.org/abs/2408.01037) 
+
 ## Medical
 
 (Arxiv 24.01.09) U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation [Paper](https://arxiv.org/abs/2401.04722) [Code](https://github.com/bowang-lab/U-Mamba) ![Stars](https://img.shields.io/github/stars/bowang-lab/U-Mamba)
