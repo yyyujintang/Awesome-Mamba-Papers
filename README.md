@@ -3,12 +3,16 @@
 
 This repository compiles a list of papers related to Mamba and SSM.
 
-Continual improvements are being made to this repository. If you come across any relevant papers that should be included, please don't hesitate to open an issue.
+Continual improvements are being made to this repository. If you come across any relevant papers that should be included, please don't hesitate to open an issue or email me with tangyujin0275@gmail.com.
+
+Last update on 
 
 ## News
 
+- Last update on 24.09.02
+- Add Papaers accepted by ECCV24, ACM-MM24 with notes(Search the conference name within this repo.)
 - SegMamba accepted by MICCAI24!
-- Mamba-2, VIM, Caduceus accepted by ICML24!
+- Mamba-2, VIM, Caduceus accepted by ICML24
 
 ## Survey
 
@@ -54,9 +58,9 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.02.01) BlackMamba: Mixture of Experts for State-Space Models [Paper](https://arxiv.org/abs/2402.01771) [Code](https://github.com/Zyphra/BlackMamba) ![Stars](https://img.shields.io/github/stars/Zyphra/BlackMamba)
 
-(Arxiv 24.02.06) Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks [Paper](https://arxiv.org/abs/2402.04248) 
+(Arxiv 24.02.06) Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks [Paper](https://arxiv.org/abs/2402.04248) [Code](https://github.com/krafton-ai/mambaformer-icl) ![Stars](https://img.shields.io/github/stars/krafton-ai/mambaformer-icl)
 
-(Arxiv 24.02.08) Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data [Paper](https://arxiv.org/abs/2402.05892) 
+(Arxiv 24.02.08->ECCV24) Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data [Paper](https://arxiv.org/abs/2402.05892) [Code](https://github.com/jacklishufan/Mamba-ND) ![Stars](https://img.shields.io/github/stars/jacklishufan/Mamba-ND)
 
 (Arxiv 24.02.15) Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling [Paper](https://arxiv.org/abs/2402.10211) [Code](https://github.com/raunaqbhirangi/hiss) ![Stars](https://img.shields.io/github/stars/raunaqbhirangi/hiss)
 
@@ -74,7 +78,7 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.12) Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [Paper](https://arxiv.org/abs/2403.07487) [Code](https://github.com/steve-zeyu-zhang/MotionMamba) ![Stars](https://img.shields.io/github/stars/steve-zeyu-zhang/MotionMamba)
 
-(Arxiv 24.03.13) ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes [Paper](https://arxiv.org/abs/2403.05795)
+(Arxiv 24.03.13) ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes [Paper](https://arxiv.org/abs/2403.05795) [Code](https://github.com/whaleloops/ClinicalMamba) ![Stars](https://img.shields.io/github/stars/whaleloops/ClinicalMamba)
 
 (Arxiv 24.03.26) State Space Models as Foundation Models: A Control Theoretic Overview [Paper](https://arxiv.org/abs/2403.16899) 
 
@@ -88,7 +92,7 @@ Continual improvements are being made to this repository. If you come across any
 
 \(**Arxiv 24.05.13) MambaOut: Do We Really Need Mamba for Vision?** [Paper](https://arxiv.org/abs/2405.07992) [Code](https://github.com/yuweihao/MambaOut) ![Stars](https://img.shields.io/github/stars/yuweihao/MambaOut) 
 
-(Arxiv 24.05.19) NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba [Paper](https://arxiv.org/abs/2405.11449) 
+(Arxiv 24.05.19) NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba [Paper](https://arxiv.org/abs/2405.11449) [Code](https://github.com/LincanLi98/STG-Mamba) ![Stars](https://img.shields.io/github/stars/LincanLi98/STG-Mamba)
 
 (Arxiv 24.05.23) EHRMamba: Towards Generalizable and Scalable Foundation Models for Electronic Health Records [Paper](https://arxiv.org/abs/2405.14567) 
 
@@ -100,7 +104,7 @@ Continual improvements are being made to this repository. If you come across any
 
 ## Language/Sequence Modeling
 
-**(Arxiv 24.03.05, ICML24) Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling** [Paper](https://arxiv.org/abs/2403.03234)  [Code](https://github.com/kuleshov-group/caduceus) ![Stars](https://img.shields.io/github/stars/kuleshov-group/caduceus)
+**(Arxiv 24.03.05, ICML24) Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling** [Paper](https://arxiv.org/abs/2403.03234)  [Code](https://github.com/wangtz19/NetMamba) ![Stars](https://img.shields.io/github/stars/wangtz19/NetMamba)
 
 (Arxiv 24.06.11) Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling [Paper](https://arxiv.org/abs/2406.07522)  
 
@@ -224,6 +228,8 @@ Continual improvements are being made to this repository. If you come across any
 
 \(Arxiv 24.06.11) Autoregressive Pretraining with Mamba in Vision [Paper](https://arxiv.org/abs/2406.07537) [Code](https://github.com/OliverRensu/ARM) ![Stars](https://img.shields.io/github/stars/OliverRensu/ARM)
 
+\(Arxiv 24.07.31->ACM MM24) Autoregressive Pretraining with Mamba in Vision [Paper](https://arxiv.org/abs/2407.21773) [Code](https://github.com/TonyHongtaoWu/RainMamba) ![Stars](https://img.shields.io/github/stars/TonyHongtaoWu/RainMamba)
+
 ## Video
 
 (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim) ![Stars](https://img.shields.io/github/stars/scott-yjyang/Vivim)
@@ -232,7 +238,7 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.04.01) SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [Paper](https://arxiv.org/abs/2404.01174) 
 
-(Arxiv 24.04.09) RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos [Paper](https://arxiv.org/abs/2404.06483) 
+(Arxiv 24.04.09) RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos [Paper](https://arxiv.org/abs/2404.06483) [Code](https://github.com/zizheng-guo/RhythmMamba) ![Stars](https://img.shields.io/github/stars/zizheng-guo/RhythmMamba)
 
 (Arxiv 24.04.11) Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [Paper](https://arxiv.org/abs/2404.07645) 
 
@@ -334,7 +340,7 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.03.12) Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers [Paper](https://arxiv.org/abs/2403.07675) [code](https://github.com/Audio-WestlakeU/NBSS) ![Stars](https://img.shields.io/github/stars/Audio-WestlakeU/NBSS)
 
-(Arxiv 24.03.27) Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation [Paper](https://arxiv.org/abs/2403.18257) 
+(Arxiv 24.03.27) Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation [Paper](https://arxiv.org/abs/2403.18257) [Code](https://github.com/xi-j/Mamba-TasNet) ![Stars](https://img.shields.io/github/stars/xi-j/Mamba-TasNet)
 
 (Arxiv 24.04.02) SPMamba: State-space model is all you need in speech separation [Paper](https://arxiv.org/abs/2404.02063) [code](https://github.com/JusperLee/SPMamba) ![Stars](https://img.shields.io/github/stars/JusperLee/SPMamba)
 
@@ -348,11 +354,9 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.05.21) Mamba in Speech: Towards an Alternative to Self-Attention [Paper](https://arxiv.org/abs/2405.12609) 
 
-(Arxiv 24.05.22) Audio Mamba: Pretrained Audio State Space Model For Audio Tagging [Paper](https://arxiv.org/abs/2405.13636)
+(Arxiv 24.06.04, INTERSPEECH 2024) Audio Mamba: Pretrained Audio State Space Model For Audio Tagging [Paper](https://arxiv.org/abs/2406.02178) [Code](https://github.com/SarthakYadav/audio-mamba-official) ![Stars](https://img.shields.io/github/stars/SarthakYadav/audio-mamba-official)
 
-(Arxiv 24.06.04, INTERSPEECH 2024) Audio Mamba: Pretrained Audio State Space Model For Audio Tagging [Paper](https://arxiv.org/abs/2406.02178)
-
-(Arxiv 24.06.05) Audio Mamba: Bidirectional State Space Model for Audio Representation Learning [Paper](https://arxiv.org/abs/2406.03344)
+(Arxiv 24.06.05) Audio Mamba: Bidirectional State Space Model for Audio Representation Learning [Paper](https://arxiv.org/abs/2406.03344) [Code](https://github.com/kaistmm/Audio-Mamba-AuM) ![Stars](https://img.shields.io/github/stars/kaistmm/Audio-Mamba-AuM)
 
 (Arxiv 24.06.10) RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection [Paper](https://arxiv.org/abs/2406.06086)
 
@@ -362,7 +366,7 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.02.13) Graph Mamba: Towards Learning on Graphs with State Space Models [Paper](https://arxiv.org/abs/2402.08678) [Code](https://github.com/GraphMamba/GMN) ![Stars](https://img.shields.io/github/stars/GraphMamba/GMN)
 
-(Arxiv 24.03.19) STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [Paper](https://arxiv.org/abs/2403.12418) 
+(Arxiv 24.03.19) STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model [Paper](https://arxiv.org/abs/2403.12418) [Code](https://github.com/LincanLi98/STG-Mamba) ![Stars](https://img.shields.io/github/stars/LincanLi98/STG-Mamba)
 
 (Arxiv 24.06.05) Combining Graph Neural Network and Mamba to Capture Local and Global Tissue Spatial Relationships in Whole Slide Images [Paper](https://arxiv.org/abs/2406.04377) [Code](https://github.com/rina-ding/gat-mamba) ![Stars](https://img.shields.io/github/stars/rina-ding/gat-mamba)
 
@@ -452,7 +456,7 @@ Continual improvements are being made to this repository. If you come across any
 
 (Arxiv 24.06.06) RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation [Paper](https://arxiv.org/abs/2406.04339) [Code](https://github.com/lmzpai/roboMamba) ![Stars](https://img.shields.io/github/stars/lmzpai/roboMamba)
 
-## Healthcare/ Drug discovery/Bio NLP
+## Healthcare/Drug discovery/Bio NLP
 
 (Arxiv 24.07.30) MambaCapsule: Towards Transparent Cardiac Disease Diagnosis with Electrocardiography Using Mamba Capsule Network [Paper](https://arxiv.org/abs/2407.20893v1)
 
