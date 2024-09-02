@@ -164,7 +164,7 @@ Continual improvements are being made to this repository. If you come across any
 
 \(Arxiv 24.04.29) RSCaMa: Remote Sensing Image Change Captioning with State Space Model [Paper](https://arxiv.org/abs/2404.18895) [Code](https://github.com/Chen-Yang-Liu/RSCaMa) ![Stars](https://img.shields.io/github/stars/Chen-Yang-Liu/RSCaMa)
 
-\(Arxiv 24.05.02) SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients [Paper](https://arxiv.org/abs/2405.01726) [Code](https://github.com/yash2629/S.O.A.R) ![Stars](https://img.shields.io/github/stars/yash2629/S.O.A.R)
+\(Arxiv 24.05.02) SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients [Paper](https://arxiv.org/abs/2405.01699) [Code](https://github.com/yash2629/S.O.A.R) ![Stars](https://img.shields.io/github/stars/yash2629/S.O.A.R)
 
 \(Arxiv 24.05.02) SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising [Paper](https://arxiv.org/abs/2405.01828) [Code](https:/github.com/lronkitty/SSUMamba) ![Stars](https://img.shields.io/github/stars/lronkitty/SSUMamba)
 
@@ -176,7 +176,7 @@ Continual improvements are being made to this repository. If you come across any
 
 \(Arxiv 24.05.07) VMambaCC: A Visual State Space Model for Crowd Counting [Paper](https://arxiv.org/abs/2405.03978)
 
-\(Arxiv 24.05.08) Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution [Paper](https://arxiv.org/abs/2405.01699) 
+\(Arxiv 24.05.08) Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution [Paper](https://arxiv.org/abs/2405.04964) 
 
 \(Arxiv 24.05.09) Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression: EventMamba [Paper](https://arxiv.org/abs/2405.06116) 
 
@@ -451,6 +451,14 @@ Continual improvements are being made to this repository. If you come across any
 ## Embodied AI
 
 (Arxiv 24.06.06) RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation [Paper](https://arxiv.org/abs/2406.04339) [Code](https://github.com/lmzpai/roboMamba) ![Stars](https://img.shields.io/github/stars/lmzpai/roboMamba)
+
+## Healthcare/ Drug discovery/Bio NLP
+
+(Arxiv 24.07.30) MambaCapsule: Towards Transparent Cardiac Disease Diagnosis with Electrocardiography Using Mamba Capsule Network [Paper](https://arxiv.org/abs/2407.20893v1)
+
+(Arxiv 24.08.15) BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba [Paper](https://arxiv.org/abs/2408.02600)
+
+(Arxiv 24.08.11) SMILES-Mamba: Chemical Mamba Foundation Models for Drug ADMET Prediction [Paper](https://arxiv.org/abs/2408.05696)
 
 ## Other Useful Sources
 
