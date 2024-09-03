@@ -384,7 +384,13 @@ Last update on
 
 (Arxiv 24.05.24) PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis [Paper](https://arxiv.org/abs/2405.15463) [Code ](https://github.com/xiaoyao3302/PoinTramba)![Stars](https://img.shields.io/github/stars/xiaoyao3302/PoinTramba)
 
+(Arxiv 24.05.27) LCM: Locally Constrained Compact Point Cloud Model for Masked Point Modeling [Paper](https://arxiv.org/abs/2405.17149)  
+
 (Arxiv 24.06.10) PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis [Paper](https://arxiv.org/abs/2406.06069) 
+
+
+
+
 
 ## Recommendation
 
