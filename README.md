@@ -228,8 +228,6 @@ Last update on
 
 \(Arxiv 24.06.11) Autoregressive Pretraining with Mamba in Vision [Paper](https://arxiv.org/abs/2406.07537) [Code](https://github.com/OliverRensu/ARM) ![Stars](https://img.shields.io/github/stars/OliverRensu/ARM)
 
-\(Arxiv 24.07.31->ACM MM24) RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining [Paper](https://arxiv.org/abs/2407.21773) [Code](https://github.com/TonyHongtaoWu/RainMamba) ![Stars](https://img.shields.io/github/stars/TonyHongtaoWu/RainMamba)
-
 ## Video
 
 (Arxiv 24.01.25) Vivim: a Video Vision Mamba for Medical Video Object Segmentation [Paper](https://arxiv.org/abs/2401.14168) [Code](https://github.com/scott-yjyang/Vivim) ![Stars](https://img.shields.io/github/stars/scott-yjyang/Vivim)
@@ -249,6 +247,8 @@ Last update on
 (Arxiv 24.05.24) Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation [Paper](https://arxiv.org/abs/2405.15881) 
 
 (Arxiv 24.05.30) DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark [Paper](https://arxiv.org/abs/2405.19707) [Code](https://github.com/chenhaoxing/DeMamba) ![Stars](https://img.shields.io/github/stars/chenhaoxing/DeMamba)
+
+\(Arxiv 24.07.31->ACM MM24) RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining [Paper](https://arxiv.org/abs/2407.21773) [Code](https://github.com/TonyHongtaoWu/RainMamba) ![Stars](https://img.shields.io/github/stars/TonyHongtaoWu/RainMamba)
 
 ## Spatiotemporal
 
