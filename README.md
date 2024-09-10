@@ -228,7 +228,7 @@ Last update on
 
 \(Arxiv 24.06.11) Autoregressive Pretraining with Mamba in Vision [Paper](https://arxiv.org/abs/2406.07537) [Code](https://github.com/OliverRensu/ARM) ![Stars](https://img.shields.io/github/stars/OliverRensu/ARM)
 
-\(Arxiv 24.07.31->ACM MM24) Autoregressive Pretraining with Mamba in Vision [Paper](https://arxiv.org/abs/2407.21773) [Code](https://github.com/TonyHongtaoWu/RainMamba) ![Stars](https://img.shields.io/github/stars/TonyHongtaoWu/RainMamba)
+\(Arxiv 24.07.31->ACM MM24) RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining [Paper](https://arxiv.org/abs/2407.21773) [Code](https://github.com/TonyHongtaoWu/RainMamba) ![Stars](https://img.shields.io/github/stars/TonyHongtaoWu/RainMamba)
 
 ## Video
 
