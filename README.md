@@ -334,7 +334,7 @@ Last update on
 
 (Arxiv 24.06.06) TSCMamba: Mamba Meets Multi-View Learning for Time Series Classification [Paper](https://arxiv.org/abs/2406.04419) 
 
-(Arxiv 24.06.08) C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting [Paper](https://arxiv.org/abs/2406.05316) 
+(Arxiv 24.06.08) C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting [Paper](https://arxiv.org/abs/2406.05316) [Code](https://github.com/Prismadic/simple-CMamba) ![Stars](https://img.shields.io/github/stars/Prismadic/simple-CMamba)
 
 ## Speech/Audio
 
