@@ -312,6 +312,8 @@ Last update on
 
 (Arxiv 24.06.09) Convolution and Attention-Free Mamba-based Cardiac Image Segmentation [Paper](https://arxiv.org/abs/2406.05786) 
 
+(Arxiv 24.08.02) BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba [Paper](https://arxiv.org/abs/2408.02600)
+
 ## Time Series
 
 (Arxiv 24.03.14) TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting [Paper](https://arxiv.org/abs/2403.09898) [Code](https://github.com/Atik-Ahamed/TimeMachine) ![Stars](https://img.shields.io/github/stars/Atik-Ahamed/TimeMachine)
