@@ -9,8 +9,8 @@ Last update on
 
 ## News
 
-- Last update on 24.09.02
-- Add Papaers accepted by ECCV24, ACM-MM24 with notes(Search the conference name within this repo.)
+- Last update on 24.10.12
+- Add Papaers accepted by CVPR24, ECCV24, ACM-MM24 with notes(Search the conference name within this repo.)
 - SegMamba accepted by MICCAI24!
 - Mamba-2, VIM, Caduceus accepted by ICML24
 
