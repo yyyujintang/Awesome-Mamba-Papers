@@ -40,11 +40,13 @@ Last update on
 
 (Arxiv 24.05.27) The Expressive Capacity of State Space Models: A Formal Language Perspective [Paper](https://arxiv.org/abs/2405.17394) [Code](https://github.com/LeapLabTHU/MLLA) ![Stars](https://img.shields.io/github/stars/LeapLabTHU/MLLA)
 
-**(Arxiv 24.05.31, ICML24, Mamba-2) Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality** [Paper](https://arxiv.org/abs/2405.21060)  [Code](https://github.com/state-spaces/mamba) ![Stars](https://img.shields.io/github/stars/state-spaces/mamba)
+(Arxiv 24.05.31, ICML24, Mamba-2) Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality [Paper](https://arxiv.org/abs/2405.21060)  [Code](https://github.com/state-spaces/mamba) ![Stars](https://img.shields.io/github/stars/state-spaces/mamba)
 
-**(Arxiv 24.06.04) GrootVL: Tree Topology is All You Need in State Space Model** [Paper](https://arxiv.org/abs/2406.02395) [Code](https://github.com/EasonXiao-888/GrootVL) ![Stars](https://img.shields.io/github/stars/EasonXiao-888/GrootVL)
+(Arxiv 24.06.04) GrootVL: Tree Topology is All You Need in State Space Model [Paper](https://arxiv.org/abs/2406.02395) [Code](https://github.com/EasonXiao-888/GrootVL) ![Stars](https://img.shields.io/github/stars/EasonXiao-888/GrootVL)
 
-**(Arxiv 24.06.12) An Empirical Study of Mamba-based Language Models** [Paper](https://arxiv.org/abs/2406.07887)
+(Arxiv 24.06.12) An Empirical Study of Mamba-based Language Models [Paper](https://arxiv.org/abs/2406.07887)
+
+(Arxiv 24.10.04) S7: Selective and Simplified State Space Layers for Sequence Modeling [Paper](https://arxiv.org/abs/2410.03464)
 
 ## Mamba
 
@@ -119,6 +121,8 @@ Last update on
 (Arxiv 24.02.06) U-shaped Vision Mamba for Single Image Dehazing [Paper](https://arxiv.org/abs/2402.04139) [Code](https://github.com/zzr-idam/UVM-Net) ![Stars](https://img.shields.io/github/stars/zzr-idam/UVM-Net)
 
 (Arxiv 24.02.23) MambaIR: A Simple Baseline for Image Restoration with State-Space Model [Paper](https://arxiv.org/abs/2402.15648) [Code](https://github.com/csguoh/MambaIR) ![Stars](https://img.shields.io/github/stars/csguoh/MambaIR)
+
+(Arxiv 24.02.23->CVPR24) State Space Models for Event Cameras [Paper](https://arxiv.org/abs/2402.15584) [Code](https://github.com/uzh-rpg/ssms_event_cameras) ![Stars](https://img.shields.io/github/stars/uzh-rpg/ssms_event_cameras)
 
 (Arxiv 24.02.24) Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning [Paper](https://arxiv.org/abs/2402.15761) [Code ](https://github.com/ChiShengChen/ResVMamba)![Stars](https://img.shields.io/github/stars/ChiShengChen/ResVMamba)
 
@@ -452,6 +456,8 @@ Last update on
 
 (Arxiv 24.06.07) Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs [Paper](https://arxiv.org/abs/2406.05038) [Code](https://github.com/feizc/Dimba) ![Stars](https://img.shields.io/github/stars/feizc/Dimba)
 
+(Arxiv 24.09.05) MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos [Paper](https://arxiv.org/abs/2409.02638)
+
 ## Embodied AI
 
 (Arxiv 24.06.06) RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation [Paper](https://arxiv.org/abs/2406.04339) [Code](https://github.com/lmzpai/roboMamba) ![Stars](https://img.shields.io/github/stars/lmzpai/roboMamba)
@@ -463,6 +469,10 @@ Last update on
 (Arxiv 24.08.15) BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba [Paper](https://arxiv.org/abs/2408.02600)
 
 (Arxiv 24.08.11) SMILES-Mamba: Chemical Mamba Foundation Models for Drug ADMET Prediction [Paper](https://arxiv.org/abs/2408.05696)
+
+## Interpretability
+
+(Arxiv 24.06.11) MambaLRP: Explaining Selective State Space Sequence Models [Paper](https://arxiv.org/abs/2406.07592) [Code](https://github.com/FarnoushRJ/MambaLRP) ![Stars](https://img.shields.io/github/stars/FarnoushRJ/MambaLRP)
 
 ## Other Useful Sources
 
