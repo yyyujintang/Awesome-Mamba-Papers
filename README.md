@@ -374,6 +374,8 @@ Last update on
 
 (Arxiv 24.06.05) Combining Graph Neural Network and Mamba to Capture Local and Global Tissue Spatial Relationships in Whole Slide Images [Paper](https://arxiv.org/abs/2406.04377) [Code](https://github.com/rina-ding/gat-mamba) ![Stars](https://img.shields.io/github/stars/rina-ding/gat-mamba)
 
+(Arxiv 24.09.26) Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction [Paper](https://arxiv.org/abs/2410.03707) [Code](https://github.com/Ali-Meh619/SAMBA) ![Stars](https://img.shields.io/github/stars/Ali-Meh619/SAMBA)
+
 ## Point Cloud
 
 (Arxiv 24.02.16) PointMamba: A Simple State Space Model for Point Cloud Analysis [Paper](https://arxiv.org/abs/2402.10739) [Code](https://github.com/LMD0311/PointMamba) ![Stars](https://img.shields.io/github/stars/LMD0311/PointMamba)
