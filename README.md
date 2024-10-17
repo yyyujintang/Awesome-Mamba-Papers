@@ -440,6 +440,8 @@ Last update on
 
 (Arxiv 24.06.08) Decision Mamba: A Multi-Grained State Space Model with Self-Evolution Regularization for Offline RL [Paper](https://arxiv.org/abs/2406.05427) 
 
+(Arxiv 24.10.11) Drama: Mamba-Enabled Model-Based Reinforcement Learning Is Sample and Parameter Efficient [Paper](https://arxiv.org/abs/2410.08893v1) [Code](https://github.com/realwenlongwang/drama) ![Stars](https://img.shields.io/github/stars/realwenlongwang/drama)
+
 ## Diffusion
 
 (Arxiv 24.03.21) ZigMa: Zigzag Mamba Diffusion Model [Paper](https://arxiv.org/abs/2403.13802) [Code](https://github.com/CompVis/zigma) ![Stars](https://img.shields.io/github/stars/CompVis/zigma)
